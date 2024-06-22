@@ -185,26 +185,23 @@ Durant ces trois jours, nous avons fait [des blocs en expérimentation](https://
 [saperlipopette](Présentations/02_Jeudi/07_A101_Enseignement/02_Salmon_maelle_saperlipopette, un paquet R pour progresser en Git en toute sérénité.pdf), on a pu 
 [progresser en toute sérénité](Présentations/02_Jeudi/07_A101_Enseignement/02_Salmon_maelle_saperlipopette, un paquet R pour progresser en Git en toute sérénité.pdf). Petit à petit 
 [les petits cours d'eau](https://rr2024.sciencesconf.org/543486) ont formé des grandes rivières et au travers [de zones climatiques locales](https://hal.science/hal-04613802v1) a abouti sur une vraie 
-[ingénierie marine](https://github.com/Resourcecode-project/r-resourcecode).
-</br>
-
+[ingénierie marine](https://github.com/Resourcecode-project/r-resourcecode).  
+  
 Nous avons aussi parlé [de biologie et de santé](https://rr2024.sciencesconf.org/539452), en restant
 [fiables](Présentations/01_Mercredi/03_Reproductibilité/01_Féat_Yann_Guaranteeing reliable analyses with R packages perspectives from clinical research.pdf) mais sans être trop 
 [clinique](Présentations/01_Mercredi/03_Reproductibilité/01_Féat_Yann_Guaranteeing reliable analyses with R packages perspectives from clinical research.pdf) 
 [tout en souplesse](Présentations/01_Mercredi/04_Courte 1/02_Floc'hlay_Swann_Pour un namespace tout en souplesse.html) puisque nous avons [créé des environnements reproductibles avec rix](https://is.gd/nix_rr_2024) 
 ([deux fois](https://is.gd/nix_rr_2024)). Nous avons formé une [communauté autour de R](Présentations/01_Mercredi/04_Courte 1/05_Vaugoyeau_Marie_Comment les communautés autour de R peuvent changer vos pRojets.pdf), des 
-[clusters de copules](https://rr2024.sciencesconf.org/543892) voir parfois été dans [une vie polyamoureuse avec Julia](https://rr2024.sciencesconf.org/543985).
-</br>
-
+[clusters de copules](https://rr2024.sciencesconf.org/543892) voir parfois été dans [une vie polyamoureuse avec Julia](https://rr2024.sciencesconf.org/543985).  
+  
 Si nous faisions [une enquête auprès des](Présentations/01_Mercredi/04_Courte 1/01_Girard_Antoine_Une enquête auprès des métiers de la « data »  quelle place pour R et ses utilisateurs.pdf) participants autour des 
 [poster](Posters/05_Goumri_Samra_Poster autour du package {datamods}.pdf), je suis sûr que beaucoup me diraient, 
 [qu’une marche, c'est bien](Présentations/02_Jeudi/07_A250_Gestion de projet/02_Guyader_Vincent_Refactoring  du code qui marche, c'est bien, mais du code maintenable, c'est mieux.html), surtout dans des 
 [forêts aléatoires de survie](https://rr2024.sciencesconf.org/541278) mais 
 [Apprendre R et les statistiques... grâce à R](https://github.com/BioDataScience-Course/sdd_presentations/blob/master/2024_rencontresr_vannes/presentation/RRvannes2025_grosjean_presentation.pdf) afin d’avoir 
 [des tableaux et des graphiques prêts à publication](https://orbi.umons.ac.be/handle/20.500.12907/49210) et de faire une [génération aléatoire d'exercices pour Moodle](https://hal.science/hal-04616646) tout en 
-[étendant nos codes](Présentations/01_Mercredi/02_Biostatistique/01_Comets_Emmanuelle_Extending code from the saemix package to fit parametric joint models in R.pdf), c’est mieux.
-</br>
-
+[étendant nos codes](Présentations/01_Mercredi/02_Biostatistique/01_Comets_Emmanuelle_Extending code from the saemix package to fit parametric joint models in R.pdf), c’est mieux.  
+  
 Il est temps de prendre nos [distances](Posters/06_Santagostini_Bouhlel_mstudentd_DistanceDivergence entre distributions t multivariées.pdf) et de [migrer](https://rr2024.sciencesconf.org/546658) loin de Vannes. Prenez votre 
 [SK8](https://hal.inrae.fr/hal-04141247), votre bouteille d[’eau](https://rr2024.sciencesconf.org/541324) et surtout votre [torch](https://rr2024.sciencesconf.org/560087) afin d’éclairer le monde. Nous vous avons donné 
 [une boîte à outils complète pour l’analyse afin](https://rr2024.sciencesconf.org/544034) de [diffuser l’image](https://rr2024.sciencesconf.org/544084) que [le futur](https://rr2024.sciencesconf.org/537480) c’est 
