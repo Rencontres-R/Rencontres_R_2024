@@ -31,11 +31,11 @@ Les Rencontres R 2024 c'est :
 
 ### [Conférencières et conférenciers invité·e·s](https://rr2024.sciencesconf.org/resource/page/id/21)
 
-* [Apprendre R et les statistiques... grâce à R](https://github.com/BioDataScience-Course/sdd_presentations/blob/master/2024_rencontresr_vannes/presentation/RRvannes2025_grosjean_presentation.pdf) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)]() - Philippe Grosjean, Service d’Écologie numérique, Instituts Infortech et Complexys, Université de Mons, Belgique [![Acte](css/file.png)](https://rr2024.sciencesconf.org/558616)
-* [Comment tirer parti des technologies cloud sans se faire enfermer ? Projet Onyxia](https://rlesur.github.io/rr2024/#/title-slide) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)]() - Romain Lesur, INSEE
-* [SK8 : Pour des applications shiny qui se déploient comment sur des roulettes](https://hal.inrae.fr/hal-04611375v1) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)]() - Elise Maigné, MIAT, INRAE, Toulouse [![Acte](css/file.png)](https://rr2024.sciencesconf.org/557097)
-* [Modélisation conjointe de données longitudinales et de temps d'événements sous R](https://hal.science/hal-04617186) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)]() - Cécile Proust Lima, Inserm, Univ. Bordeaux [![Acte](css/file.png)](https://rr2024.sciencesconf.org/557302)
-* [R pour l'océano-météo et l'ingénierie marine](https://github.com/Resourcecode-project/r-resourcecode) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)]() - Raillard Nicolas, Laboratoire Hydrodynamique Marine, Ifremer, Brest [![Acte](css/file.png)](https://rr2024.sciencesconf.org/558418)
+* [Apprendre R et les statistiques... grâce à R](https://github.com/BioDataScience-Course/sdd_presentations/blob/master/2024_rencontresr_vannes/presentation/RRvannes2025_grosjean_presentation.pdf) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)]() - Philippe Grosjean, Service d’Écologie numérique, Instituts Infortech et Complexys, Université de Mons, Belgique [![Acte](css/file.png)](https://rr2024.sciencesconf.org/558616) - *Modératrice : Chloé Friguet*
+* [Comment tirer parti des technologies cloud sans se faire enfermer ? Projet Onyxia](https://rlesur.github.io/rr2024/#/title-slide) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)]() - Romain Lesur, INSEE - *Modérateur : David Gohel*
+* [SK8 : Pour des applications shiny qui se déploient comment sur des roulettes](https://hal.inrae.fr/hal-04611375v1) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)]() - Elise Maigné, MIAT, INRAE, Toulouse [![Acte](css/file.png)](https://rr2024.sciencesconf.org/557097) - *Modérateur : Paul Bastide*
+* [Modélisation conjointe de données longitudinales et de temps d'événements sous R](https://hal.science/hal-04617186) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)]() - Cécile Proust Lima, Inserm, Univ. Bordeaux [![Acte](css/file.png)](https://rr2024.sciencesconf.org/557302) - *Modératrice : Solène Desmée*
+* [R pour l'océano-météo et l'ingénierie marine](https://github.com/Resourcecode-project/r-resourcecode) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)]() - Raillard Nicolas, Laboratoire Hydrodynamique Marine, Ifremer, Brest [![Acte](css/file.png)](https://rr2024.sciencesconf.org/558418) - *Modératrice : Audrey Poterie*
 
 ### [Tutoriels](https://rr2024.sciencesconf.org/resource/page/id/20)
 
@@ -44,25 +44,19 @@ Les Rencontres R 2024 c'est :
 
 ### Posters
 
-* [{VMR} to manage Virtual Machines for/with R](Posters/JF_REY_RR2023_VMR.pdf) - jean-françois rey, INRAE, Biostatistique et Processus Spatiaux
-* [Packages mggd et mcauchyd – Distribution gaussienne généralisée multivariée, distribution de Cauchy multivariée](Posters/Santagostini_Bouhlel_irhs.pdf) - Pierre Santagostini, IRHS - Équipe ImHorPhen (Imagerie pour l'Horticulture et le Phénotypage)
-* [Modelling plant resistance deployment: the R package {landsepi}](Posters/landsepiposter.pdf) - Loup Rimbaud, Pathologie Végétale - Julien Papaïx, BioSP
-* Welcome to the golemverse - Colin FAY, ThinkR
-* [Une application R Shiny pour la simulation du bilan hydrique des sols viticoles (modèle WaLIS)](Posters/PosterRR2023_DELPUECH.pdf) - Xavier Delpuech, Institut français de la vigne et du vin
-*  Enseigner les statistiques avec YouTube et la pop culture - nancy rebout, VetAgro Sup - Institut national d'enseignement supérieur et de recherche en alimentation, santé animale, sciences agronomiques et de l'environnement, Département Territoires et Société
-*  R package for analyzing adverse drug reactions in FDA database: Evaluation of ALS patients adverse drug reactions - Luis Garcez, Centro de Estatística e Aplicações da Universidade de Lisboa
-* [{qdd} : {qdd} : un package R de contrôle de la qualité et de nettoyage des données pour les Plateformes d'Epidémiosurveillance](Posters/poster_qdd_mmarjou.pdf) - Marine Marjou, Biostatistique et Processus Spatiaux
-* [airGRgalaxy : des outils hydrologiques autour des modèles GR](Posters/airGRgalaxy_poster_Rencontres-R-2023.pdf) - Olivier Delaigue, Hydrosystèmes continentaux anthropisés : ressources, risques, restauration
-* [SK8 : Un service institutionnel de gestion et d'hébergement d'applications Shiny](https://hal.inrae.fr/hal-04141247) - Elise Maigné & SK8 Team
-* [Développement d'une base de données hydro-climatiques nationale à l'aide de R](Posters/BDD-Hydroclim_poster_Rencontres-R-2023.pdf) - Guilherme Mendoza Guimarães, Hydrosystèmes continentaux anthropisés : ressources, risques, restauration
-* [IDEATools : Un package R pour évaluer la durabilité des exploitations agricoles avec la méthode IDEA4](Posters/poster_IDEATools.pdf) - David Carayon, INRAE Nlle Aquitaine-Bordeaux / UR ETTIS
-*  RFLOMICS: Interactive web application for multi-omics data analysis - Audrey Hulot, Institut Jean-Pierre Bourgin - Delphine CHARIF, Institut Jean-Pierre Bourgin
-* [Le sémiaire Russ a 10 ans](Posters/Poster_RUSS_2023.pdf) - [Flyers](Posters/Flyer_RUSS_2023.pdf) - Pascal Cristofoli (EHESS), Bénédicte Garnier (Ined), Timothée Giraud (CNRS UAR Riate), Élisabeth Morand (Ined)  
-*  Analyse de réseaux trophiques : comparaison d'algorithmes pour l'échantillonage uniforme de polytope - Théo Grente, Laboratoire de Mathématiques Nicolas Oresme, France Energies Marines [Brest]
-*  L'analyse de survie, une « nouvelle » méthode pour modéliser les dynamiques temporelles du dépérissement de la vigne - Inchboard Lauren, Bordeaux Sciences Agro [Gradignan]
-* [Le futur c'est SAS ! Euh. . . non, Sass !](Posters/poster_breant_sass.pdf) - Arthur Bréant, ThinkR
+* hubeau: un package pour interroger les APIs du Système d'Information sur l'eau en France - Pascal Irz, Direction régionale Bretagne [![Acte](css/file.png)](https://rr2024.sciencesconf.org/541324)
+* [SK8 : Un service institutionnel de gestion et d'hébergement d'applications Shiny](https://hal.inrae.fr/hal-04141247) - jean-françois rey, Biostatistique et Processus Spatiaux - Élise Maigné, Unité de Mathématiques et Informatique Appliquées de Toulouse [![Acte](css/file.png)](https://rr2024.sciencesconf.org/538547)
+* [Créer un site pour partager sa recherche avec R, blogdown et Hugo](https://hal.science/hal-04618386) - Fanny Ollivier, Laboratoire de Psychologie des Pays de la Loire [![Acte](css/file.png)](https://rr2024.sciencesconf.org/543714)
+* Les packages autour de JDemetra+ (rjd3) : une boîte à outils complète pour l'analyse des séries temporelles - Tanguy Barthelemy, INSEE [![Acte](css/file.png)](https://rr2024.sciencesconf.org/544034)
+* [Poster autour du package {datamods}](Posters/05_Goumri_Samra_Poster autour du package {datamods}.pdf) - Samra Goumri, dreamRs - Victor Perrier, dreamRs [![Acte](css/file.png)](https://rr2024.sciencesconf.org/543724)
+* [Distance/Divergence entre distributions t multivariées](Posters/06_Santagostini_Bouhlel_mstudentd_DistanceDivergence entre distributions t multivariées.pdf) - Pierre Santagostini, IRHS - Équipe ImHorPhen (Imagerie pour l'Horticulture et le Phénotypage) [![Acte](css/file.png)](https://rr2024.sciencesconf.org/557106)
+* A survey translation tool to easily migrate from Qualtrics to LimeSurvey - Camille Straboni, Département d'Etudes Cognitives - ENS Paris [![Acte](css/file.png)](https://rr2024.sciencesconf.org/546658)
+* RecForest : Forêts aléatoires de survie pour l'analyse des événements récurrents en R - Juliette Murris, Health data- and model- driven Knowledge Acquisition [![Acte](css/file.png)](https://rr2024.sciencesconf.org/541278)
+* [Des tableaux et des graphiques prêts à publication avec les packages R {tabularise} et {chart} de la suite SciViews](https://orbi.umons.ac.be/handle/20.500.12907/49210) - Guyliann Engels, Service d'écologie numérique, Institut Complexys & Infortech, Université de Mons, Cellule de Pédagogie Facultaire des Sciences, Université de Mons [![Acte](css/file.png)](https://rr2024.sciencesconf.org/544062)
 
 ### Lightning
+
+#### Courte 1 - *Brault Vincent*
 
 * [DeCovarT, a R package for a robust deconvolution of cell mixture in transcriptomic samples using a multivariate Gaussian generative framework](Presentations/1_Mercredi/3_Lightning_I/1_rencontresR_bastien_chassagnol_short_talk.pdf) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)](https://youtu.be/mYfrjhTVpA0) - Bastien Chassagnol, Institut de Recherches SERVIER, Laboratoire de Probabilités, Statistique et Modélisation, LIP6  
 * [CGI – Permettre à de nouveaux utilisateurs de R de créer des graphiques respectant les contraintes de son institut](Presentations/1_Mercredi/3_Lightning_I/2_Presentation_CGI_DUPIN.pdf) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)](https://youtu.be/Umb8KDPy5u8) - Jean Dupin, INSEE  
