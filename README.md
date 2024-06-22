@@ -19,9 +19,9 @@ Chaine Youtube : [@RencontresR](https://youtube.com/@RencontresR) | [Playlist 20
 Les Rencontres R 2024 c'est :  
 -> 150 Participants  
 -> 5 Demi-journées  
--> 5 Conférencières et conférenciers invité·e·s</br>
+-> 5 Conférencières et conférenciers invité·e·s  
 -> 2 Tutoriels  
--> 23 Présentations longues </br>	
+-> 23 Présentations longues  
 -> 9 Lightning  
 -> 9 Posters  
 
@@ -175,7 +175,7 @@ Après avoir [collecté et cartographié les données du congrès](https://husso
 [applications Shiny qui facilitent la vie](https://rr2024.sciencesconf.org/543812), des applications Shiny élégantes et performantes [qui se déploient comme sur des roulettes](https://hal.inrae.fr/hal-04611375v1) et tout 
 ceci a eu un [IMPACT](https://yannsay-impact.github.io/RR2024_presentation_cadreRchezIMPACT/#/title-slide) sur nos [Initiatives](https://yannsay-impact.github.io/RR2024_presentation_cadreRchezIMPACT/#/title-slide) afin de 
 mieux Comunicate notamment en HTTP. Nous avons [exploré des données métagénomiques](https://hal.inrae.fr/hal-04611225), des 
-[modélisation conjointe de données longitudinales et de temps d'événements](https://hal.science/hal-04617186) et bien sûr des [modèles de régression quantile à effets mixtes](https://rr2024.sciencesconf.org/544071).	
+[modélisation conjointe de données longitudinales et de temps d'événements](https://hal.science/hal-04617186) et bien sûr des [modèles de régression quantile à effets mixtes](https://rr2024.sciencesconf.org/544071).  
 
 </br>
 
