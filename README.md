@@ -22,8 +22,8 @@ Les Rencontres R 2024 c'est :
 -> 5 Conférencières et conférenciers invité·e·s
 -> 2 Tutoriels  
 -> 35 Présentations  
--> 20 Lightning  
--> 19 Posters  
+-> 9 Lightning  
+-> 9 Posters  
 
 ## Programmes
 
@@ -56,27 +56,20 @@ Les Rencontres R 2024 c'est :
 
 ### Lightning
 
-#### Courte 1 - *Brault Vincent*
+#### Courte 1 - *Vincent Brault*
 
-* [DeCovarT, a R package for a robust deconvolution of cell mixture in transcriptomic samples using a multivariate Gaussian generative framework](Presentations/1_Mercredi/3_Lightning_I/1_rencontresR_bastien_chassagnol_short_talk.pdf) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)](https://youtu.be/mYfrjhTVpA0) - Bastien Chassagnol, Institut de Recherches SERVIER, Laboratoire de Probabilités, Statistique et Modélisation, LIP6  
-* [CGI – Permettre à de nouveaux utilisateurs de R de créer des graphiques respectant les contraintes de son institut](Presentations/1_Mercredi/3_Lightning_I/2_Presentation_CGI_DUPIN.pdf) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)](https://youtu.be/Umb8KDPy5u8) - Jean Dupin, INSEE  
-* [Applications Shiny pour le suivi de systèmes agricoles et environementaux](Presentations/1_Mercredi/3_Lightning_I/3_presentation_L_Croce_T_Faure.pdf) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)](https://youtu.be/yXyP_vXx1q0) - Loris Croce, Technologies et systèmes d'information pour les agrosystèmes INRAE  
-* [Camtrapviz, une interface Shiny pour visualiser les données de pièges photographiques](Presentations/1_Mercredi/3_Lightning_I/4_NICVERT_Lisa_camtrapviz.pdf) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)](https://youtu.be/5qL-vUkrvr0) - Lisa Nicvert, Laboratoire de Biométrie et Biologie Evolutive - UMR 5558	
-* [{crosstable} : décrivez vos datasets en quelques lignes](Presentations/1_Mercredi/3_Lightning_I/5_CHALTIEL_Rencontres_R_2023-presentation_crosstable.pdf) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)](https://youtu.be/m0Cl3iNa2i0) - Dan Chaltiel, Direction de la recherche [Gustave Roussy]
-* [ShinySbm : une application Shiny pour analyser des réseaux à l'aide de modèles à blocs stochastiques](Presentations/2_Jeudi/2_Lightning_II/1_VANRENTERGHEM_ShinySBM.pdf) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)](https://youtu.be/zrd1ITFgmm0) - Théodore Vanrenterghem, UMR MIA Paris-Saclay
-* ["AHHH #$@% ça marche pas !" : Aidez votre père dans sa lutte avec l'informatique et devenez un.e meilleur.e développeur.se](Presentations/2_Jeudi/2_Lightning_II/2_AHHHH_antoine_languillaume_rr23_lighting.pdf) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)](https://youtu.be/KtbLwp2ZSV0) - Antoine Languillaume, ThinkR  
-* [Pybind11/reticulate comme alternative à Rcpp](Presentations/2_Jeudi/2_Lightning_II/3_COLLIN_Pybind11_reticulate_as_an_alternative_to_Rcpp.pdf) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)](https://youtu.be/OTV8LUELkWg) - François-David Collin, Institut Montpelliérain Alexander Grothendieck  
-* [SABRE (industrial project)](Presentations/2_Jeudi/2_Lightning_II/4_PUDLICKI_SABRE.pdf) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)](https://youtu.be/n_YnT4ILvus) - Antony Pudlicki, MERSEN-BIATSS  
-* [MyFamilyRisk: une application R/Shiny pour saisir facilement son histoire familiale de cancer.](Presentations/2_Jeudi/2_Lightning_II/5_pres_YOUENN_DROUET.pdf) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)](https://youtu.be/A7jSxiHtC3o) - Youenn Drouet, Laboratoire de Biométrie et Biologie Evolutive - UMR 5558, Centre Léon Bérard
-* [{golem} et {fusen}, le combo gagnant pour construire des applications Shiny robustes et faciles à maintenir](Presentations/2_Jeudi/2_Lightning_II/6_Rochette_RR2023_golem-fusen.pdf) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)](https://youtu.be/cYKsYBFIpX0) - Sébastien Rochette, ThinkR
-* [{matreex} : Simuler les dynamiques forestières européeennes](Presentations/2_Jeudi/2_Lightning_II/7_JAUNATRE_matreex_pres.pdf) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)](https://youtu.be/m27dr3GIDP8) - Maxime Jaunatre, Laboratoire des EcoSystèmes et des Sociétés en Montagne
-* [R-Ladies Paris, une communauté engagée garantissant la diversité et l'inclusivité](Presentations/2_Jeudi/2_Lightning_II/8_Presentation_de_R_Ladies_Paris_Mouna_Belaid.pdf) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)](https://youtu.be/MIcMzFtTAuw) - Mouna Belaid, R-Ladies Paris
-* [{autoimport} : gérer l'enfer des imports](Presentations/2_Jeudi/5_Lightning_III/1_CHALTIEL_Rencontres_R_2023-presentation_autoimport.pdf) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)](https://youtu.be/Hhts2IBOfjQ) - Dan Chaltiel, Direction de la recherche [Gustave Roussy]	
-* [Réaliser ses tableaux avec flextable](Presentations/2_Jeudi/5_Lightning_III/2_pres-flextable_gohel.pdf) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)](https://youtu.be/AkwY8s5nP7Y) - David Gohel, ArData	
-* [La modélisation individu-centrée sur R avec le package NetLogoR](Presentations/2_Jeudi/5_Lightning_III/3_Bauduin_NetLogoR.pdf) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)](https://youtu.be/RxXyu8PR_0U) - Sarah Bauduin, Office Français de la Biodiversité	
-* [Combien d'animaux dans mon essai ?](Presentations/2_Jeudi/5_Lightning_III/4_RR2023-Combien_d_animaux_dans_mon_essai_DECHAUX.pdf) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)](https://youtu.be/rK-s_hM_SOE) - Terence Dechaux, DATASTAT	
-* [{happign} : une porte ouverte sur les données IGN](Presentations/2_Jeudi/5_Lightning_III/5_happign_carteron_paul.pdf) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)](https://youtu.be/Ha44VTGhOVo) - Paul CARTERON, particulier	
-* [survivalGPU : Analyses de survie sur cartes graphiques](Presentations/2_Jeudi/5_Lightning_III/6_survivalGPU_presentation_VANSTRAATEN.pdf) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)](https://youtu.be/1JaqSFtL2Zs) - Alexis Van STRAATEN, Assistance Publique-Hôpitaux de Paris (AP-HP), Service d'informatique Médicale, Biostatistiques Et Santé Publique, Hôpital Européen Georges Pompidou, Paris
+* Une enquête auprès des métiers de la « data » : quelle place pour R et ses utilisateurs ? - Antoine Girard, data analyst indépendant [![Acte](css/file.png)](https://rr2024.sciencesconf.org/541832)
+* [Pour un namespace tout en souplesse](Présentations/01_Mercredi/04_Courte 1/02_Floc'hlay_Swann_Pour un namespace tout en souplesse.html) - Swann Floc'hlay, ThinkR [![Acte](css/file.png)](https://rr2024.sciencesconf.org/https://rr2024.sciencesconf.org/542632)
+* [Cadre R chez IMPACT Initiatives](https://yannsay-impact.github.io/RR2024_presentation_cadreRchezIMPACT/#/title-slide) - Yann Say, IMPACT Initiatives [![Acte](css/file.png)](https://rr2024.sciencesconf.org/546935)
+* [Comment les communautés autour de R peuvent changer vos pRojets](Présentations/01_Mercredi/04_Courte 1/05_Vaugoyeau_Marie_Comment les communautés autour de R peuvent changer vos pRojets.pdf) - Marie Vaugoyeau, MStats [![Acte](css/file.png)](https://rr2024.sciencesconf.org/538685)
+
+#### Courte 2 - *François Husson*
+
+* [Explorer et comparer des cartes de zones climatiques locales avec le paquet lczexplore](https://hal.science/hal-04613802v1) - Matthieu Gousseff, Equipe DECIDE [![Acte](css/file.png)](https://rr2024.sciencesconf.org/544051)
+* Des applications Shiny qui facilitent la vie - Terence Dechaux, Institut de l'élevage [![Acte](css/file.png)](https://rr2024.sciencesconf.org/543812)
+* Application Shiny XPBlocs - Création de blocs en expérimentation - Maxime Legris, Institut de l'Elevage [![Acte](css/file.png)](https://rr2024.sciencesconf.org/543823)
+* Utilisation du package {flexdashboard} pour le contrôle des données de biologie dans un entrepôt de données de santé - Morgane Pierre-Jean, Univ Rennes, CHU Rennes, INSERM, LTSI-UM R 1099 [![Acte](css/file.png)](https://rr2024.sciencesconf.org/539452)
+* [easy16S : une application Shiny pour explorer ses données métagénomiques](https://hal.inrae.fr/hal-04611225) - Cédric Midoux, Université Paris-Saclay, INRAE, PROSE, 92160, Antony, France, Université Paris-Saclay, INRAE, MaIAGE, 78350, Jouy-en-Josas, France, Université Paris-Saclay, INRAE, BioinfOmics, MIGALE bioinformatics facility, 78350, Jouy-en-Josas, France [![Acte](css/file.png)](https://rr2024.sciencesconf.org/548790)
 
 ### Infrastructure
 
