@@ -164,7 +164,7 @@ Nous remercions les différents comités et nos [sponsors](https://rr2024.scienc
 ### Discours de clôture pour remercier les participantes et les participants
 
 <div align="justify">
-Après avoir [collecté et cartographié les données du congrès] (https://husson.github.io/img/presRR24.html#/title-slide), [esquissé un outil de visualisation](03_Vendredi/02_Shiny/02_Perrier_Victor_Esquisse, un outil de 
+Après avoir [collecté et cartographié les données du congrès](https://husson.github.io/img/presRR24.html#/title-slide), [esquissé un outil de visualisation](03_Vendredi/02_Shiny/02_Perrier_Victor_Esquisse, un outil de 
 visualisation.pdf) et [sécurisé](02_Jeudi/07_A250_Gestion de projet/01_Philibert_Aurore_Dugas_Julien_Sécurisation des analyses statistiques avec R  retour d'expérience.pdf) nos 
 [analyses statistiques avec R](02_Jeudi/07_A250_Gestion de projet/01_Philibert_Aurore_Dugas_Julien_Sécurisation des analyses statistiques avec R  retour d'expérience.pdf), nous pouvons vous faire un 
 [retour d'expérience](02_Jeudi/07_A250_Gestion de projet/01_Philibert_Aurore_Dugas_Julien_Sécurisation des analyses statistiques avec R  retour d'expérience.pdf). Cette conférence fut comme 
@@ -177,8 +177,8 @@ mieux Comunicate notamment en HTTP. Nous avons [exploré des données métagéno
 [modélisation conjointe de données longitudinales et de temps d'événements](https://hal.science/hal-04617186) et bien sûr des [modèles de régression quantile à effets mixtes](https://rr2024.sciencesconf.org/544071).
 
 
-Durant ces trois jours, nous avons fait [des blocs en expérimentation](https://rr2024.sciencesconf.org/543823), des [retours d'expérience](02_Jeudi/03_Méthode Statistique/03_Bichat_Antoine_Créer son propre package d'extension 
-recipes retour d'expérience de scimo.pdf), ce fut parfois dans des [conditions extrêmes](https://rr2024.sciencesconf.org/548415) et nous avons fait [des erreurs standards](https://hal.science/hal-04617156) notamment 
+Durant ces trois jours, nous avons fait [des blocs en expérimentation](https://rr2024.sciencesconf.org/543823), des
+[retours d'expérience](02_Jeudi/03_Méthode Statistique/03_Bichat_Antoine_Créer son propre package d'extension recipes retour d'expérience de scimo.pdf), ce fut parfois dans des [conditions extrêmes](https://rr2024.sciencesconf.org/548415) et nous avons fait [des erreurs standards](https://hal.science/hal-04617156) notamment 
 [pour les données éparses](https://hal.science/hal-04617156) en touchant le [fond](https://rr2024.sciencesconf.org/547938). Mais [Un petit coup de polish](https://rr2024.sciencesconf.org/542773) et 
 [saperlipopette](02_Jeudi/07_A101_Enseignement/02_Salmon_maelle_saperlipopette, un paquet R pour progresser en Git en toute sérénité.pdf), on a pu 
 [progresser en toute sérénité](02_Jeudi/07_A101_Enseignement/02_Salmon_maelle_saperlipopette, un paquet R pour progresser en Git en toute sérénité.pdf). Petit à petit 
@@ -186,8 +186,9 @@ recipes retour d'expérience de scimo.pdf), ce fut parfois dans des [conditions 
 [ingénierie marine](https://github.com/Resourcecode-project/r-resourcecode).
 
 
-Nous avons aussi parlé [de biologie et de santé](https://rr2024.sciencesconf.org/539452), en restant [fiables](Présentations/01_Mercredi/03_Reproductibilité/01_Féat_Yann_Guaranteeing reliable analyses with R packages 
-perspectives from clinical research.pdf) mais sans être trop [clinique](Présentations/01_Mercredi/03_Reproductibilité/01_Féat_Yann_Guaranteeing reliable analyses with R packages perspectives from clinical research.pdf) 
+Nous avons aussi parlé [de biologie et de santé](https://rr2024.sciencesconf.org/539452), en restant
+[fiables](Présentations/01_Mercredi/03_Reproductibilité/01_Féat_Yann_Guaranteeing reliable analyses with R packages perspectives from clinical research.pdf) mais sans être trop 
+[clinique](Présentations/01_Mercredi/03_Reproductibilité/01_Féat_Yann_Guaranteeing reliable analyses with R packages perspectives from clinical research.pdf) 
 [tout en souplesse](Présentations/01_Mercredi/04_Courte 1/02_Floc'hlay_Swann_Pour un namespace tout en souplesse.html) puisque nous avons [créé des environnements reproductibles avec rix](https://is.gd/nix_rr_2024) 
 ([deux fois](https://is.gd/nix_rr_2024)). Nous avons formé une [communauté autour de R](Présentations/01_Mercredi/04_Courte 1/05_Vaugoyeau_Marie_Comment les communautés autour de R peuvent changer vos pRojets.pdf), des 
 [clusters de copules](https://rr2024.sciencesconf.org/543892) voir parfois été dans [une vie polyamoureuse avec Julia](https://rr2024.sciencesconf.org/543985).
