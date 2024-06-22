@@ -27,19 +27,15 @@ Les Rencontres R 2024 c'est :
 
 ## Programmes
 
-[Le programme en PDF](Rencontres_R_2023_Program.pdf) English version  
+[Retrouvez le programme détaillé sur le site de la conférence](https://rr2024.sciencesconf.org/program).
 
-https://rr2023.sciencesconf.org/program
+### [Conférencières et conférenciers invité·e·s](https://rr2024.sciencesconf.org/resource/page/id/21)
 
-### Keynotes
-
-https://rr2023.sciencesconf.org/page/conferenciers
-
-* [Tips pour combattre le syndrome de l'imposteur](https://www.google.com/url?q=https://bit.ly/imposteur-avignon&sa=D&source=editors&ust=1687880572930550&usg=AOvVaw2BpH2o17LbvNuv_fLsKuq_) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)](https://youtu.be/sPiu8us444w) - Aurélie Vache, OVHcloud  
-* [Data science without the data](https://statsrhian.github.io/talks/2023/2023-06-22-data-science-without-the-data/slides.html#/title-slide) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)](https://youtu.be/rzARlulrVgQ) - Rhian Davies, Jumping Rivers
-* [R dans l'univers de la Dataviz](https://github.com/holtzy/Talk/blob/master/2023/R_in_Dataviz_universe.pdf) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)](https://youtu.be/RrRXcC4KOzc) - Yan Holtz, Datadog
-* [L'écosystème spatial de R](https://rcarto.github.io/RencontresR_2023/#/title-slide) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)](https://youtu.be/rzARlulrVgQ) - Timothée Giraud, UAR RIATE
-* [Pastels, paillettes et packages pour accompagner la recherche avec R](Presentations/3_Vendredi/2_Keynote_V/vaudor_keynote_papapapapa_RR2023.pdf) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)](https://youtu.be/fIJ9gr1MK2Q) - Lise Vaudor, CNRS
+* [Apprendre R et les statistiques... grâce à R](https://github.com/BioDataScience-Course/sdd_presentations/blob/master/2024_rencontresr_vannes/presentation/RRvannes2025_grosjean_presentation.pdf) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)]() - Philippe Grosjean, Service d’Écologie numérique, Instituts Infortech et Complexys, Université de Mons, Belgique
+* [Comment tirer parti des technologies cloud sans se faire enfermer ? Projet Onyxia](https://rlesur.github.io/rr2024/#/title-slide) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)]() - Romain Lesur, INSEE
+* [SK8 : Pour des applications shiny qui se déploient comment sur des roulettes](https://hal.inrae.fr/hal-04611375v1) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)]() - Elise Maigné, MIAT, INRAE, Toulouse
+* [Modélisation conjointe de données longitudinales et de temps d'événements sous R](https://hal.science/hal-04617186) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)]() - Cécile Proust Lima, Inserm, Univ. Bordeaux
+* [R pour l'océano-météo et l'ingénierie marine](https://github.com/Resourcecode-project/r-resourcecode) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)]() - Raillard Nicolas, Laboratoire Hydrodynamique Marine, Ifremer, Brest
 
 ### Tutoriels
 
