@@ -176,9 +176,7 @@ Après avoir [collecté et cartographié les données du congrès](https://husso
 ceci a eu un [IMPACT](https://yannsay-impact.github.io/RR2024_presentation_cadreRchezIMPACT/#/title-slide) sur nos [Initiatives](https://yannsay-impact.github.io/RR2024_presentation_cadreRchezIMPACT/#/title-slide) afin de 
 mieux Comunicate notamment en HTTP. Nous avons [exploré des données métagénomiques](https://hal.inrae.fr/hal-04611225), des 
 [modélisation conjointe de données longitudinales et de temps d'événements](https://hal.science/hal-04617186) et bien sûr des [modèles de régression quantile à effets mixtes](https://rr2024.sciencesconf.org/544071).  
-
-</br>
-
+  
 Durant ces trois jours, nous avons fait [des blocs en expérimentation](https://rr2024.sciencesconf.org/543823), des
 [retours d'expérience](Présentations/02_Jeudi/03_Méthode Statistique/03_Bichat_Antoine_Créer son propre package d'extension recipes retour d'expérience de scimo.pdf), ce fut parfois dans des [conditions extrêmes](https://rr2024.sciencesconf.org/548415) et nous avons fait [des erreurs standards](https://hal.science/hal-04617156) notamment 
 [pour les données éparses](https://hal.science/hal-04617156) en touchant le [fond](https://rr2024.sciencesconf.org/547938). Mais [Un petit coup de polish](https://rr2024.sciencesconf.org/542773) et 
