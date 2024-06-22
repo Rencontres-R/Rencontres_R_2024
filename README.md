@@ -19,9 +19,9 @@ Chaine Youtube : [@RencontresR](https://youtube.com/@RencontresR) | [Playlist 20
 Les Rencontres R 2024 c'est :  
 -> 150 Participants  
 -> 5 Demi-journées  
--> 5 Conférencières et conférenciers invité·e·s	
+-> 5 Conférencières et conférenciers invité·e·s</br>
 -> 2 Tutoriels  
--> 23 Présentations longues	
+-> 23 Présentations longues </br>	
 -> 9 Lightning  
 -> 9 Posters  
 
