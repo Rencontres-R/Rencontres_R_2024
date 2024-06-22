@@ -76,7 +76,7 @@ Les Rencontres R 2024 c'est :
 #### Aide à la vie de tous les jours et à l'enseignement - *Audrey Lavenu*
 
 * Un petit coup de polish - Nettoyage de fichiers Excel avec R - Thomas Vroylandt, Kantiles [![Acte](css/file.png)](https://rr2024.sciencesconf.org/542773)
-* [{saperlipopette}, un paquet R pour progresser en Git en toute sérénité](02_Jeudi/07_A101_Enseignement/02_Salmon_maelle_saperlipopette, un paquet R pour progresser en Git en toute sérénité.pdf) - Maëlle SALMON, rOpenSci, cynkra [![Acte](css/file.png)](https://rr2024.sciencesconf.org/544031)
+* [{saperlipopette}, un paquet R pour progresser en Git en toute sérénité](Présentations/02_Jeudi/07_A101_Enseignement/02_Salmon_maelle_saperlipopette, un paquet R pour progresser en Git en toute sérénité.pdf) - Maëlle SALMON, rOpenSci, cynkra [![Acte](css/file.png)](https://rr2024.sciencesconf.org/544031)
 * [Génération aléatoire d'exercices de biostatistiques pour Moodle via le package SARP.Moodle de R](https://hal.science/hal-04616646) - Emmanuel Curis, UR 7537 BioSTM, Faculté de pharmacie de Paris, Service d'Hématologie Biologique [CHU Lariboisière] [![Acte](css/file.png)](https://rr2024.sciencesconf.org/543706)
 
 #### Biostatistique - *Julie Aubert*
@@ -92,15 +92,15 @@ Les Rencontres R 2024 c'est :
 
 #### Gestion de projet R, bonnes pratiques - *Pierre Gloaguen*
 
-* [Sécurisation des analyses statistiques avec R : retour d'expérience](02_Jeudi/07_A250_Gestion de projet/01_Philibert_Aurore_Dugas_Julien_Sécurisation des analyses statistiques avec R  retour d'expérience.pdf) - Aurore Philibert, Pôle Biostatistique - Julien Dugas, Pôle Biostatistique [![Acte](css/file.png)](https://rr2024.sciencesconf.org/543675)
-* [Refactoring : du code qui marche, c'est bien, mais du code maintenable, c'est mieux](02_Jeudi/07_A250_Gestion de projet/02_Guyader_Vincent_Refactoring  du code qui marche, c'est bien, mais du code maintenable, c'est mieux.html) - Vincent Guyader, ThinkR [![Acte](css/file.png)](https://rr2024.sciencesconf.org/543491)
+* [Sécurisation des analyses statistiques avec R : retour d'expérience](Présentations/02_Jeudi/07_A250_Gestion de projet/01_Philibert_Aurore_Dugas_Julien_Sécurisation des analyses statistiques avec R  retour d'expérience.pdf) - Aurore Philibert, Pôle Biostatistique - Julien Dugas, Pôle Biostatistique [![Acte](css/file.png)](https://rr2024.sciencesconf.org/543675)
+* [Refactoring : du code qui marche, c'est bien, mais du code maintenable, c'est mieux](Présentations/02_Jeudi/07_A250_Gestion de projet/02_Guyader_Vincent_Refactoring  du code qui marche, c'est bien, mais du code maintenable, c'est mieux.html) - Vincent Guyader, ThinkR [![Acte](css/file.png)](https://rr2024.sciencesconf.org/543491)
 * Une vie polyamoureuse entre R et Julia - Remy Drouilhet, Laboratoire Jean Kuntzmann [![Acte](css/file.png)](https://rr2024.sciencesconf.org/543985)
 
 #### Méthode statistique - *Vincent Brault*
 
 * Estimation de quantiles conditionnels extrêmes : Package Extremefit - Gilles Durrieu, Laboratoire de Mathématiques de Bretagne Atlantique [![Acte](css/file.png)](https://rr2024.sciencesconf.org/548415)
-* [Clustering sur données incomplètes avec clusterMI](02_Jeudi/03_Méthode Statistique/02_Audigier_Vincent_Clustering sur données incomplètes avec clusterMI.pdf) - Vincent Audigier, Conservatoire National des Arts et Métiers [CNAM] : EA4629 [![Acte](css/file.png)](https://rr2024.sciencesconf.org/539419)
-* [Créer son propre package d'extension {recipes}: retour d'expérience de {scimo}](02_Jeudi/03_Méthode Statistique/03_Bichat_Antoine_Créer son propre package d'extension recipes retour d'expérience de scimo.pdf) - Antoine Bichat, Les Laboratoires Servier [![Acte](css/file.png)](https://rr2024.sciencesconf.org/543866)
+* [Clustering sur données incomplètes avec clusterMI](Présentations/02_Jeudi/03_Méthode Statistique/02_Audigier_Vincent_Clustering sur données incomplètes avec clusterMI.pdf) - Vincent Audigier, Conservatoire National des Arts et Métiers [CNAM] : EA4629 [![Acte](css/file.png)](https://rr2024.sciencesconf.org/539419)
+* [Créer son propre package d'extension {recipes}: retour d'expérience de {scimo}](Présentations/02_Jeudi/03_Méthode Statistique/03_Bichat_Antoine_Créer son propre package d'extension recipes retour d'expérience de scimo.pdf) - Antoine Bichat, Les Laboratoires Servier [![Acte](css/file.png)](https://rr2024.sciencesconf.org/543866)
 * Smooth testing and clustering of copulas - Yves Ismaël Ngounou Bakam, CREST-ENSAI [![Acte](css/file.png)](https://rr2024.sciencesconf.org/543892)
 
 #### Reproductibilité - *Aurélie Siberchicot*
@@ -111,7 +111,7 @@ Les Rencontres R 2024 c'est :
 #### Shiny - *Swann Floc'hlay*
 
 * Microstructure Information from Diffusion Imaging - Aymeric Stamm, Department of Mathematics Jean Leray [![Acte](css/file.png)](https://rr2024.sciencesconf.org/544084)
-* [Esquisse, un outil de visualisation](03_Vendredi/02_Shiny/02_Perrier_Victor_Esquisse, un outil de visualisation.pdf) - Victor PERRIER, dreamRs [![Acte](css/file.png)](https://rr2024.sciencesconf.org/546550)
+* [Esquisse, un outil de visualisation](Présentations/03_Vendredi/02_Shiny/02_Perrier_Victor_Esquisse, un outil de visualisation.pdf) - Victor PERRIER, dreamRs [![Acte](css/file.png)](https://rr2024.sciencesconf.org/546550)
 * webR, et le futur des apps web avec R - Colin FAY, ThinkR [![Acte](css/file.png)](https://rr2024.sciencesconf.org/537480)
 
 #### Statistique pour l'environnement - *Baptiste Alglave*
@@ -165,24 +165,24 @@ Nous remercions les différents comités et nos [sponsors](https://rr2024.scienc
 
 <div align="justify">
 Après avoir [collecté et cartographié les données du congrès](https://husson.github.io/img/presRR24.html#/title-slide), 
-[esquissé un outil de visualisation](03_Vendredi/02_Shiny/02_Perrier_Victor_Esquisse, un outil de visualisation.pdf) et 
-[sécurisé](02_Jeudi/07_A250_Gestion de projet/01_Philibert_Aurore_Dugas_Julien_Sécurisation des analyses statistiques avec R  retour d'expérience.pdf) nos 
-[analyses statistiques avec R](02_Jeudi/07_A250_Gestion de projet/01_Philibert_Aurore_Dugas_Julien_Sécurisation des analyses statistiques avec R  retour d'expérience.pdf), nous pouvons vous faire un 
-[retour d'expérience](02_Jeudi/07_A250_Gestion de projet/01_Philibert_Aurore_Dugas_Julien_Sécurisation des analyses statistiques avec R  retour d'expérience.pdf). Cette conférence fut comme 
+[esquissé un outil de visualisation](Présentations/03_Vendredi/02_Shiny/02_Perrier_Victor_Esquisse, un outil de visualisation.pdf) et 
+[sécurisé](Présentations/02_Jeudi/07_A250_Gestion de projet/01_Philibert_Aurore_Dugas_Julien_Sécurisation des analyses statistiques avec R  retour d'expérience.pdf) nos 
+[analyses statistiques avec R](Présentations/02_Jeudi/07_A250_Gestion de projet/01_Philibert_Aurore_Dugas_Julien_Sécurisation des analyses statistiques avec R  retour d'expérience.pdf), nous pouvons vous faire un 
+[retour d'expérience](Présentations/02_Jeudi/07_A250_Gestion de projet/01_Philibert_Aurore_Dugas_Julien_Sécurisation des analyses statistiques avec R  retour d'expérience.pdf). Cette conférence fut comme 
 [un site pour partager sa recherche](https://hal.science/hal-04618386), un endroit pour [Maturer des codes scientifiques de traitement de données liées à l'Eau](https://rr2024.sciencesconf.org/544010) ou encore 
 [visualiser des mobilités pour la recherche et les citoyen·ne·s](https://rr2024.sciencesconf.org/543678) même si nous avons des 
-[données incomplètes](02_Jeudi/03_Méthode Statistique/02_Audigier_Vincent_Clustering sur données incomplètes avec clusterMI.pdf). Nous avons vu des 
+[données incomplètes](Présentations/02_Jeudi/03_Méthode Statistique/02_Audigier_Vincent_Clustering sur données incomplètes avec clusterMI.pdf). Nous avons vu des 
 [applications Shiny qui facilitent la vie](https://rr2024.sciencesconf.org/543812), des applications Shiny élégantes et performantes [qui se déploient comme sur des roulettes](https://hal.inrae.fr/hal-04611375v1) et tout 
 ceci a eu un [IMPACT](https://yannsay-impact.github.io/RR2024_presentation_cadreRchezIMPACT/#/title-slide) sur nos [Initiatives](https://yannsay-impact.github.io/RR2024_presentation_cadreRchezIMPACT/#/title-slide) afin de 
 mieux Comunicate notamment en HTTP. Nous avons [exploré des données métagénomiques](https://hal.inrae.fr/hal-04611225), des 
 [modélisation conjointe de données longitudinales et de temps d'événements](https://hal.science/hal-04617186) et bien sûr des [modèles de régression quantile à effets mixtes](https://rr2024.sciencesconf.org/544071).
-</br>
+</br></br>
 
 Durant ces trois jours, nous avons fait [des blocs en expérimentation](https://rr2024.sciencesconf.org/543823), des
-[retours d'expérience](02_Jeudi/03_Méthode Statistique/03_Bichat_Antoine_Créer son propre package d'extension recipes retour d'expérience de scimo.pdf), ce fut parfois dans des [conditions extrêmes](https://rr2024.sciencesconf.org/548415) et nous avons fait [des erreurs standards](https://hal.science/hal-04617156) notamment 
+[retours d'expérience](Présentations/02_Jeudi/03_Méthode Statistique/03_Bichat_Antoine_Créer son propre package d'extension recipes retour d'expérience de scimo.pdf), ce fut parfois dans des [conditions extrêmes](https://rr2024.sciencesconf.org/548415) et nous avons fait [des erreurs standards](https://hal.science/hal-04617156) notamment 
 [pour les données éparses](https://hal.science/hal-04617156) en touchant le [fond](https://rr2024.sciencesconf.org/547938). Mais [Un petit coup de polish](https://rr2024.sciencesconf.org/542773) et 
-[saperlipopette](02_Jeudi/07_A101_Enseignement/02_Salmon_maelle_saperlipopette, un paquet R pour progresser en Git en toute sérénité.pdf), on a pu 
-[progresser en toute sérénité](02_Jeudi/07_A101_Enseignement/02_Salmon_maelle_saperlipopette, un paquet R pour progresser en Git en toute sérénité.pdf). Petit à petit 
+[saperlipopette](Présentations/02_Jeudi/07_A101_Enseignement/02_Salmon_maelle_saperlipopette, un paquet R pour progresser en Git en toute sérénité.pdf), on a pu 
+[progresser en toute sérénité](Présentations/02_Jeudi/07_A101_Enseignement/02_Salmon_maelle_saperlipopette, un paquet R pour progresser en Git en toute sérénité.pdf). Petit à petit 
 [les petits cours d'eau](https://rr2024.sciencesconf.org/543486) ont formé des grandes rivières et au travers [de zones climatiques locales](https://hal.science/hal-04613802v1) a abouti sur une vraie 
 [ingénierie marine](https://github.com/Resourcecode-project/r-resourcecode).
 </br>
@@ -196,7 +196,7 @@ Nous avons aussi parlé [de biologie et de santé](https://rr2024.sciencesconf.o
 </br>
 
 Si nous faisions [une enquête auprès des](https://rr2024.sciencesconf.org/541832) participants autour des [poster](Posters/05_Goumri_Samra_Poster autour du package {datamods}.pdf), je suis sûr que beaucoup me diraient, 
-[qu’une marche, c'est bien](02_Jeudi/07_A250_Gestion de projet/02_Guyader_Vincent_Refactoring  du code qui marche, c'est bien, mais du code maintenable, c'est mieux.html), surtout dans des 
+[qu’une marche, c'est bien](Présentations/02_Jeudi/07_A250_Gestion de projet/02_Guyader_Vincent_Refactoring  du code qui marche, c'est bien, mais du code maintenable, c'est mieux.html), surtout dans des 
 [forêts aléatoires de survie](https://rr2024.sciencesconf.org/541278) mais 
 [Apprendre R et les statistiques... grâce à R](https://github.com/BioDataScience-Course/sdd_presentations/blob/master/2024_rencontresr_vannes/presentation/RRvannes2025_grosjean_presentation.pdf) afin d’avoir 
 [des tableaux et des graphiques prêts à publication](https://orbi.umons.ac.be/handle/20.500.12907/49210) et de faire une [génération aléatoire d'exercices pour Moodle](https://hal.science/hal-04616646) tout en 
