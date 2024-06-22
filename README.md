@@ -58,7 +58,7 @@ Les Rencontres R 2024 c'est :
 
 #### Courte 1 - *Vincent Brault*
 
-* Une enquête auprès des métiers de la « data » : quelle place pour R et ses utilisateurs ? - Antoine Girard, data analyst indépendant [![Acte](css/file.png)](https://rr2024.sciencesconf.org/541832)
+* [Une enquête auprès des métiers de la « data » : quelle place pour R et ses utilisateurs ?](Présentations/01_Mercredi/04_Courte 1/01_Girard_Antoine_Une enquête auprès des métiers de la « data »  quelle place pour R et ses utilisateurs.pdf) - Antoine Girard, data analyst indépendant [![Acte](css/file.png)](https://rr2024.sciencesconf.org/541832)
 * [Pour un namespace tout en souplesse](Présentations/01_Mercredi/04_Courte 1/02_Floc'hlay_Swann_Pour un namespace tout en souplesse.html) - Swann Floc'hlay, ThinkR [![Acte](css/file.png)](https://rr2024.sciencesconf.org/https://rr2024.sciencesconf.org/542632)
 * [Cadre R chez IMPACT Initiatives](https://yannsay-impact.github.io/RR2024_presentation_cadreRchezIMPACT/#/title-slide) - Yann Say, IMPACT Initiatives [![Acte](css/file.png)](https://rr2024.sciencesconf.org/546935)
 * [Comment les communautés autour de R peuvent changer vos pRojets](Présentations/01_Mercredi/04_Courte 1/05_Vaugoyeau_Marie_Comment les communautés autour de R peuvent changer vos pRojets.pdf) - Marie Vaugoyeau, MStats [![Acte](css/file.png)](https://rr2024.sciencesconf.org/538685)
@@ -176,7 +176,8 @@ Après avoir [collecté et cartographié les données du congrès](https://husso
 ceci a eu un [IMPACT](https://yannsay-impact.github.io/RR2024_presentation_cadreRchezIMPACT/#/title-slide) sur nos [Initiatives](https://yannsay-impact.github.io/RR2024_presentation_cadreRchezIMPACT/#/title-slide) afin de 
 mieux Comunicate notamment en HTTP. Nous avons [exploré des données métagénomiques](https://hal.inrae.fr/hal-04611225), des 
 [modélisation conjointe de données longitudinales et de temps d'événements](https://hal.science/hal-04617186) et bien sûr des [modèles de régression quantile à effets mixtes](https://rr2024.sciencesconf.org/544071).
-</br></br>
+
+</br>
 
 Durant ces trois jours, nous avons fait [des blocs en expérimentation](https://rr2024.sciencesconf.org/543823), des
 [retours d'expérience](Présentations/02_Jeudi/03_Méthode Statistique/03_Bichat_Antoine_Créer son propre package d'extension recipes retour d'expérience de scimo.pdf), ce fut parfois dans des [conditions extrêmes](https://rr2024.sciencesconf.org/548415) et nous avons fait [des erreurs standards](https://hal.science/hal-04617156) notamment 
@@ -195,7 +196,8 @@ Nous avons aussi parlé [de biologie et de santé](https://rr2024.sciencesconf.o
 [clusters de copules](https://rr2024.sciencesconf.org/543892) voir parfois été dans [une vie polyamoureuse avec Julia](https://rr2024.sciencesconf.org/543985).
 </br>
 
-Si nous faisions [une enquête auprès des](https://rr2024.sciencesconf.org/541832) participants autour des [poster](Posters/05_Goumri_Samra_Poster autour du package {datamods}.pdf), je suis sûr que beaucoup me diraient, 
+Si nous faisions [une enquête auprès des](Présentations/01_Mercredi/04_Courte 1/01_Girard_Antoine_Une enquête auprès des métiers de la « data »  quelle place pour R et ses utilisateurs.pdf) participants autour des 
+[poster](Posters/05_Goumri_Samra_Poster autour du package {datamods}.pdf), je suis sûr que beaucoup me diraient, 
 [qu’une marche, c'est bien](Présentations/02_Jeudi/07_A250_Gestion de projet/02_Guyader_Vincent_Refactoring  du code qui marche, c'est bien, mais du code maintenable, c'est mieux.html), surtout dans des 
 [forêts aléatoires de survie](https://rr2024.sciencesconf.org/541278) mais 
 [Apprendre R et les statistiques... grâce à R](https://github.com/BioDataScience-Course/sdd_presentations/blob/master/2024_rencontresr_vannes/presentation/RRvannes2025_grosjean_presentation.pdf) afin d’avoir 
