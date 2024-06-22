@@ -31,19 +31,16 @@ Les Rencontres R 2024 c'est :
 
 ### [Conférencières et conférenciers invité·e·s](https://rr2024.sciencesconf.org/resource/page/id/21)
 
-* [Apprendre R et les statistiques... grâce à R](https://github.com/BioDataScience-Course/sdd_presentations/blob/master/2024_rencontresr_vannes/presentation/RRvannes2025_grosjean_presentation.pdf) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)]() - Philippe Grosjean, Service d’Écologie numérique, Instituts Infortech et Complexys, Université de Mons, Belgique
+* [Apprendre R et les statistiques... grâce à R](https://github.com/BioDataScience-Course/sdd_presentations/blob/master/2024_rencontresr_vannes/presentation/RRvannes2025_grosjean_presentation.pdf) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)]() - Philippe Grosjean, Service d’Écologie numérique, Instituts Infortech et Complexys, Université de Mons, Belgique [![Acte](css/file.png)](https://rr2024.sciencesconf.org/558616)
 * [Comment tirer parti des technologies cloud sans se faire enfermer ? Projet Onyxia](https://rlesur.github.io/rr2024/#/title-slide) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)]() - Romain Lesur, INSEE
-* [SK8 : Pour des applications shiny qui se déploient comment sur des roulettes](https://hal.inrae.fr/hal-04611375v1) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)]() - Elise Maigné, MIAT, INRAE, Toulouse
-* [Modélisation conjointe de données longitudinales et de temps d'événements sous R](https://hal.science/hal-04617186) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)]() - Cécile Proust Lima, Inserm, Univ. Bordeaux
-* [R pour l'océano-météo et l'ingénierie marine](https://github.com/Resourcecode-project/r-resourcecode) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)]() - Raillard Nicolas, Laboratoire Hydrodynamique Marine, Ifremer, Brest
+* [SK8 : Pour des applications shiny qui se déploient comment sur des roulettes](https://hal.inrae.fr/hal-04611375v1) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)]() - Elise Maigné, MIAT, INRAE, Toulouse [![Acte](css/file.png)](https://rr2024.sciencesconf.org/557097)
+* [Modélisation conjointe de données longitudinales et de temps d'événements sous R](https://hal.science/hal-04617186) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)]() - Cécile Proust Lima, Inserm, Univ. Bordeaux [![Acte](css/file.png)](https://rr2024.sciencesconf.org/557302)
+* [R pour l'océano-météo et l'ingénierie marine](https://github.com/Resourcecode-project/r-resourcecode) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)]() - Raillard Nicolas, Laboratoire Hydrodynamique Marine, Ifremer, Brest [![Acte](css/file.png)](https://rr2024.sciencesconf.org/558418)
 
-### Tutoriels
+### [Tutoriels](https://rr2024.sciencesconf.org/resource/page/id/20)
 
-https://rr2023.sciencesconf.org/page/tutoriels
-
-* [De R markdown à Quarto sans effort aller plus loin avec ses publications](https://cderv.quarto.pub/tuto-quarto-rr2023/) - Christophe Dervieux (Posit)
-* [Créer un pipeline de machine learning complet avec {tidymodels}](https://github.com/abichat/rr23-tuto-tidymodels) - Julie Aubert (MIA Paris Saclay), Antoine Bichat (Servier)
-* [Analyse spatiale et cartographie avec R](https://github.com/antuki/RR2023_tuto_statspatiale) - Kim Antunez (INSEE), Etienne Côme (Université Gustave Eiffel)
+* [Dérivation automatique et optimisation avec la libraire torch](https://rr2024.sciencesconf.org/resource/page/id/20) - Tristan Mary-Huard, Université Paris-Saclay, INRAE, CNRS, AgroParisTech, UMR GQE-Le Moulon, 91190 Gif-sur-Yvette, France & Université Paris-Saclay, AgroParisTech, INRAE, UMR MIA-Paris, 91120 Palaiseau, France [![Acte](css/file.png)](https://rr2024.sciencesconf.org/560087)
+* [Créez des environements reproductibles avec rix](https://is.gd/nix_rr_2024) - Bruno Rodrigues, Ministère de la Recherche et de l’Enseignement supérieur au Luxembourg [![Acte](css/file.png)](https://rr2024.sciencesconf.org/557106)
 
 ### Posters
 
