@@ -177,6 +177,7 @@ ceci a eu un [IMPACT](https://yannsay-impact.github.io/RR2024_presentation_cadre
 mieux Comunicate notamment en HTTP. Nous avons [exploré des données métagénomiques](https://hal.inrae.fr/hal-04611225), des 
 [modélisation conjointe de données longitudinales et de temps d'événements](https://hal.science/hal-04617186) et bien sûr des [modèles de régression quantile à effets mixtes](https://rr2024.sciencesconf.org/544071).
 </div>
+
 <div align="justify">
 Durant ces trois jours, nous avons fait [des blocs en expérimentation](https://rr2024.sciencesconf.org/543823), des
 [retours d'expérience](02_Jeudi/03_Méthode Statistique/03_Bichat_Antoine_Créer son propre package d'extension recipes retour d'expérience de scimo.pdf), ce fut parfois dans des [conditions extrêmes](https://rr2024.sciencesconf.org/548415) et nous avons fait [des erreurs standards](https://hal.science/hal-04617156) notamment 
@@ -186,6 +187,7 @@ Durant ces trois jours, nous avons fait [des blocs en expérimentation](https://
 [les petits cours d'eau](https://rr2024.sciencesconf.org/543486) ont formé des grandes rivières et au travers [de zones climatiques locales](https://hal.science/hal-04613802v1) a abouti sur une vraie 
 [ingénierie marine](https://github.com/Resourcecode-project/r-resourcecode).
 </div>
+
 <div align="justify">
 Nous avons aussi parlé [de biologie et de santé](https://rr2024.sciencesconf.org/539452), en restant
 [fiables](Présentations/01_Mercredi/03_Reproductibilité/01_Féat_Yann_Guaranteeing reliable analyses with R packages perspectives from clinical research.pdf) mais sans être trop 
@@ -194,6 +196,7 @@ Nous avons aussi parlé [de biologie et de santé](https://rr2024.sciencesconf.o
 ([deux fois](https://is.gd/nix_rr_2024)). Nous avons formé une [communauté autour de R](Présentations/01_Mercredi/04_Courte 1/05_Vaugoyeau_Marie_Comment les communautés autour de R peuvent changer vos pRojets.pdf), des 
 [clusters de copules](https://rr2024.sciencesconf.org/543892) voir parfois été dans [une vie polyamoureuse avec Julia](https://rr2024.sciencesconf.org/543985).
 </div>
+
 <div align="justify">
 Si nous faisions [une enquête auprès des](https://rr2024.sciencesconf.org/541832) participants autour des [poster](Posters/05_Goumri_Samra_Poster autour du package {datamods}.pdf), je suis sûr que beaucoup me diraient, 
 [qu’une marche, c'est bien](02_Jeudi/07_A250_Gestion de projet/02_Guyader_Vincent_Refactoring  du code qui marche, c'est bien, mais du code maintenable, c'est mieux.html), surtout dans des 
@@ -202,6 +205,7 @@ Si nous faisions [une enquête auprès des](https://rr2024.sciencesconf.org/5418
 [des tableaux et des graphiques prêts à publication](https://orbi.umons.ac.be/handle/20.500.12907/49210) et de faire une [génération aléatoire d'exercices pour Moodle](https://hal.science/hal-04616646) tout en 
 [étendant nos codes](Présentations/01_Mercredi/02_Biostatistique/01_Comets_Emmanuelle_Extending code from the saemix package to fit parametric joint models in R.pdf), c’est mieux.
 </div>
+
 <div align="justify">
 Il est temps de prendre nos [distances](Posters/06_Santagostini_Bouhlel_mstudentd_DistanceDivergence entre distributions t multivariées.pdf) et de [migrer](https://rr2024.sciencesconf.org/546658) loin de Vannes. Prenez votre 
 [SK8](https://hal.inrae.fr/hal-04141247), votre bouteille d[’eau](https://rr2024.sciencesconf.org/541324) et surtout votre [torch](https://rr2024.sciencesconf.org/560087) afin d’éclairer le monde. Nous vous avons donné 
