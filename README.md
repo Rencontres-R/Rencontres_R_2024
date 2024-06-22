@@ -21,7 +21,7 @@ Les Rencontres R 2024 c'est :
 -> 5 Demi-journées  
 -> 5 Conférencières et conférenciers invité·e·s
 -> 2 Tutoriels  
--> 35 Présentations  
+-> 23 Présentations longues
 -> 9 Lightning  
 -> 9 Posters  
 
@@ -124,38 +124,39 @@ Les Rencontres R 2024 c'est :
 
 ### Comité d'organisation
 
-* Jean-François Rey (Président)
-* Edith Gabriel (Trèsorière)
-* Emily Walker
-* Anna Melnykova
-* Marine Marjou
-* Sylvie Jouslin
-* Tania Jimenez
-* Claude Bruchou
-* Loic Houde
-* Amélie Lagalisse
+* Baptiste ALGLAVE IUT SD, Univ. Bretagne-Sud, Lab-sticc, Vannes
+* Anne CUZOL, IUT SD, Univ. Bretagne Sud, LMBA, Vannes
+* Chloé FRIGUET IUT SD, Univ. Bretagne-Sud, IRISA, Vannes (présidente)
+* Pierre GLOAGUEN, UFR SSI, Univ. Bretagne Sud, LMBA, Vannes (trésorier)
+* Audrey POTERIE, IUT SD, Univ. Bretagne Sud, LMBA, Vannes
+* François SEPTIER, UFR SSI, Univ. Bretagne Sud, LMBA, Vannes
+
+#### Administratifs :
+
+* Pauline GORRE, IE appui à la Recherche/thématique IA, DRUID, Univ. Bretagne Sud, Vannes
+* Antoine L'AZOU, gestionnaire, IRISA-CNRS, Rennes
+* Aurélie JOUBEL, gestionnaire, LMBA, Univ. Bretagne Sud, Vannes
 
 ### Comité de programme
 
-*	Diane Beldame (Présidente)
-*	Edith Gabriel
-*	Maëlle Salmon
-*	Stephane Dray
-*	Maria Paula Caldas
-*	Marion Louveaux
-*	Elisabeth Morand
-*	Ahmadou Dicko
+* Paul BASTIDE, IMAG-CNRS, Montpellier
+* Vincent BRAULT, IUT SD, Univ Grenoble-Alpes, LJK, Grenoble (président)
+* Marie CHION, University of Cambridge, UK
+* Solène DESMEE, IUT GB, Univ. Tours, SPHERE-INSERM, Tours
+* David GOHEL, Fondateur ARDATA, Paris
+* François HUSSON, Institut Agro, IRMAR, Rennes
+* Audrey POTERIE, IUT SD, Univ. Bretagne Sud, LMBA, Vannes
+* Geneviève ROBIN, LaMME-CNRS Evry et Owkin, Paris
 
 ### Comité de pilotage
 
-* Marie Chavent
-* Stéphane Dray
-* Rémy Drouilhet
-* Robin Genuer
-* Francois Husson
-* Julie Josse
-* Benoit Liquet
+* Julie AUBERT - AgroParisTech
+* Rémy DROUILHET - Université Grenoble Alpes
+* Robin GENUER - Université de Bordeaux
+* Francois HUSSON - Institut Agro, Rennes
+* Julie JOSSE - INRIA, Montpellier
+* Aurélie SIBERCHICOT - Université Lyon 1
 
 ## Remerciements
 
-Nous remercions les différents comités et nos [sponsors](https://rr2023.sciencesconf.org/page/partenaires).
+Nous remercions les différents comités et nos [sponsors](https://rr2024.sciencesconf.org/resource/page/id/5).
