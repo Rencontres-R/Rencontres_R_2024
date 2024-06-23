@@ -23,7 +23,11 @@ Les Rencontres R 2024 c'est :
 -> 2 Tutoriels  
 -> 23 Présentations longues  
 -> 9 Lightning  
--> 9 Posters  
+-> 9 Posters
+
+## Acte des conférences
+
+[Les actes de la conférence des Recontres R 2024 sont disponsibles](Acte_Rencontres_R_2024.pdf)
 
 ## Programmes
 
