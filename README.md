@@ -38,7 +38,7 @@ Les Rencontres R 2024 c'est :
 * [Apprendre R et les statistiques... grâce à R](https://github.com/BioDataScience-Course/sdd_presentations/blob/master/2024_rencontresr_vannes/presentation/RRvannes2025_grosjean_presentation.pdf) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)]() - Philippe Grosjean, Service d’Écologie numérique, Instituts Infortech et Complexys, Université de Mons, Belgique [![Acte](css/file.png)](https://rr2024.sciencesconf.org/558616) - *Modératrice : Chloé Friguet*
 * [Comment tirer parti des technologies cloud sans se faire enfermer ? Projet Onyxia](https://rlesur.github.io/rr2024/#/title-slide) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)]() - Romain Lesur, INSEE - *Modérateur : David Gohel*
 * [SK8 : Pour des applications shiny qui se déploient comment sur des roulettes](https://hal.inrae.fr/hal-04611375v1) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)]() - Elise Maigné, MIAT, INRAE, Toulouse [![Acte](css/file.png)](https://rr2024.sciencesconf.org/557097) - *Modérateur : Paul Bastide*
-* [Modélisation conjointe de données longitudinales et de temps d'événements sous R](https://hal.science/hal-04617186) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)]() - Cécile Proust Lima, Inserm, Univ. Bordeaux [![Acte](css/file.png)](https://rr2024.sciencesconf.org/557302) - *Modératrice : Solène Desmée*
+* [Modélisation conjointe de données longitudinales et de temps d'événements sous R](https://hal.science/hal-04617186) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)](https://youtu.be/5dyuHrnZoNk?si=s42dHszq9NCG2Z6j) - Cécile Proust Lima, Inserm, Univ. Bordeaux [![Acte](css/file.png)](https://rr2024.sciencesconf.org/557302) - *Modératrice : Solène Desmée*
 * [R pour l'océano-météo et l'ingénierie marine](https://github.com/Resourcecode-project/r-resourcecode) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)]() - Raillard Nicolas, Laboratoire Hydrodynamique Marine, Ifremer, Brest [![Acte](css/file.png)](https://rr2024.sciencesconf.org/558418) - *Modératrice : Audrey Poterie*
 
 ### [Tutoriels](https://rr2024.sciencesconf.org/resource/page/id/20)
@@ -122,7 +122,7 @@ Les Rencontres R 2024 c'est :
 
 * Human in the deep: Converting research activities pressures into ecological impact assessment. - Riwan Leroux, Institut Français de Recherche pour l'Exploitation de la Mer [![Acte](css/file.png)](https://rr2024.sciencesconf.org/547938)
 * Maturation de codes scientifiques R de traitement de données liées à l'Eau au BRGM (initiative MATUREAU) - Marc Laurencelle, Bureau de Recherches Géologiques et Minières (BRGM) [![Acte](css/file.png)](https://rr2024.sciencesconf.org/544010)
-* Un suivi régionalisé et actualisé des étiages des petits cours d'eau, c'est possible avec R, Hub'Eau et GitHub ! - Pascal Irz, Direction régionale Bretagne [![Acte](css/file.png)](https://rr2024.sciencesconf.org/543486)
+* [Un suivi régionalisé et actualisé des étiages des petits cours d'eau, c'est possible avec R, Hub'Eau et GitHub !](https://hal.science/hal-04613400) - Pascal Irz, Direction régionale Bretagne [![Acte](css/file.png)](https://rr2024.sciencesconf.org/543486)
 
 ## Les comités
 
