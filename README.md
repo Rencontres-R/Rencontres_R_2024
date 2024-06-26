@@ -1,6 +1,6 @@
 # Rencontres R 2024
 
-![logo RR2024](Logo_RR2024.png)
+![Images/logo RR2024](Logo_RR2024.png)
 
 ## Présentation
 
@@ -25,7 +25,7 @@ Les Rencontres R 2024 c'est :
 -> 2 Tutoriels  
 -> 23 Présentations longues  
 -> 9 Lightning  
--> 9 Posters
+-> 9 Posters dont 3 primés lors de ces rencontres
 
 ## Acte des conférences
 
@@ -168,6 +168,9 @@ Les Rencontres R 2024 c'est :
 ## Remerciements
 
 Nous remercions les différents comités et nos [sponsors](https://rr2024.sciencesconf.org/resource/page/id/5).
+
+<img src="Images/Sponsors.png" alt="drawing" width="100%"/>
+
 
 ### Discours de clôture pour remercier les participantes et les participants
 
