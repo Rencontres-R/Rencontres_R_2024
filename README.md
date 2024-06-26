@@ -177,7 +177,7 @@ Après avoir [collecté et cartographié les données du congrès](https://husso
 [sécurisé](Présentations/02_Jeudi/07_A250_Gestion de projet/01_Philibert_Aurore_Dugas_Julien_Sécurisation des analyses statistiques avec R  retour d'expérience.pdf) nos 
 [analyses statistiques avec R](Présentations/02_Jeudi/07_A250_Gestion de projet/01_Philibert_Aurore_Dugas_Julien_Sécurisation des analyses statistiques avec R  retour d'expérience.pdf), nous pouvons vous faire un 
 [retour d'expérience](Présentations/02_Jeudi/07_A250_Gestion de projet/01_Philibert_Aurore_Dugas_Julien_Sécurisation des analyses statistiques avec R  retour d'expérience.pdf). Cette conférence fut comme 
-[un site pour partager sa recherche](https://hal.science/hal-04618386), un endroit pour [Maturer des codes scientifiques de traitement de données liées à l'Eau](https://rr2024.sciencesconf.org/544010) ou encore 
+[un site pour partager sa recherche](https://hal.science/hal-04618386), un endroit pour [maturer des codes scientifiques de traitement de données liées à l'Eau](https://rr2024.sciencesconf.org/544010) ou encore 
 [visualiser des mobilités pour la recherche et les citoyen·ne·s](https://rr2024.sciencesconf.org/543678) même si nous avons des 
 [données incomplètes](Présentations/02_Jeudi/03_Méthode Statistique/02_Audigier_Vincent_Clustering sur données incomplètes avec clusterMI.pdf). Nous avons vu des 
 [applications Shiny qui facilitent la vie](https://rr2024.sciencesconf.org/543812), des applications Shiny élégantes et performantes [qui se déploient comme sur des roulettes](https://hal.inrae.fr/hal-04611375v1) et tout 
@@ -187,7 +187,7 @@ mieux Comunicate notamment en HTTP. Nous avons [exploré des données métagéno
   
 Durant ces trois jours, nous avons fait [des blocs en expérimentation](https://rr2024.sciencesconf.org/543823), des
 [retours d'expérience](Présentations/02_Jeudi/03_Méthode Statistique/03_Bichat_Antoine_Créer son propre package d'extension recipes retour d'expérience de scimo.pdf), ce fut parfois dans des [conditions extrêmes](https://rr2024.sciencesconf.org/548415) et nous avons fait [des erreurs standards](https://hal.science/hal-04617156) notamment 
-[pour les données éparses](https://hal.science/hal-04617156) en touchant le [fond](https://rr2024.sciencesconf.org/547938). Mais [Un petit coup de polish](https://rr2024.sciencesconf.org/542773) et 
+[pour les données éparses](https://hal.science/hal-04617156) en touchant le [fond](https://rr2024.sciencesconf.org/547938). Mais [un petit coup de polish](https://rr2024.sciencesconf.org/542773) et 
 [saperlipopette](Présentations/02_Jeudi/07_A101_Enseignement/02_Salmon_maelle_saperlipopette, un paquet R pour progresser en Git en toute sérénité.pdf), on a pu 
 [progresser en toute sérénité](Présentations/02_Jeudi/07_A101_Enseignement/02_Salmon_maelle_saperlipopette, un paquet R pour progresser en Git en toute sérénité.pdf). Petit à petit 
 [les petits cours d'eau](https://rr2024.sciencesconf.org/543486) ont formé des grandes rivières et au travers [de zones climatiques locales](https://hal.science/hal-04613802v1) a abouti sur une vraie 
@@ -201,10 +201,10 @@ Nous avons aussi parlé [de biologie et de santé](https://rr2024.sciencesconf.o
 [clusters de copules](https://rr2024.sciencesconf.org/543892) voir parfois été dans [une vie polyamoureuse avec Julia](https://rr2024.sciencesconf.org/543985).  
   
 Si nous faisions [une enquête auprès des](Présentations/01_Mercredi/04_Courte 1/01_Girard_Antoine_Une enquête auprès des métiers de la « data »  quelle place pour R et ses utilisateurs.pdf) participants autour des 
-[poster](Posters/05_Goumri_Samra_Poster autour du package {datamods}.pdf), je suis sûr que beaucoup me diraient, 
+[posters](Posters/05_Goumri_Samra_Poster autour du package {datamods}.pdf), je suis sûr que beaucoup me diraient, 
 [qu’une marche, c'est bien](Présentations/02_Jeudi/07_A250_Gestion de projet/02_Guyader_Vincent_Refactoring  du code qui marche, c'est bien, mais du code maintenable, c'est mieux.html), surtout dans des 
 [forêts aléatoires de survie](https://rr2024.sciencesconf.org/541278) mais 
-[Apprendre R et les statistiques... grâce à R](https://github.com/BioDataScience-Course/sdd_presentations/blob/master/2024_rencontresr_vannes/presentation/RRvannes2025_grosjean_presentation.pdf) afin d’avoir 
+[apprendre R et les statistiques... grâce à R](https://github.com/BioDataScience-Course/sdd_presentations/blob/master/2024_rencontresr_vannes/presentation/RRvannes2025_grosjean_presentation.pdf) afin d’avoir 
 [des tableaux et des graphiques prêts à publication](https://orbi.umons.ac.be/handle/20.500.12907/49210) et de faire une [génération aléatoire d'exercices pour Moodle](https://hal.science/hal-04616646) tout en 
 [étendant nos codes](Présentations/01_Mercredi/02_Biostatistique/01_Comets_Emmanuelle_Extending code from the saemix package to fit parametric joint models in R.pdf), c’est mieux.  
   
