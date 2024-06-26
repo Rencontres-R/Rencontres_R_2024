@@ -1,6 +1,6 @@
 # Rencontres R 2024
 
-![Images/logo RR2024](Logo_RR2024.png)
+![logo RR2024](Images/Logo_RR2024.png)
 
 ## Présentation
 
