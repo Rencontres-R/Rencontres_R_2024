@@ -14,7 +14,7 @@ Plus d'information : https://rr2024.sciencesconf.org
 
 Twitter : [@rencontres_R](https://twitter.com/rencontres_R)  
 
-Chaine Youtube : [@RencontresR](https://youtube.com/@RencontresR) | [Playlist 2023](https://youtube.com/playlist?list=PLC0_Y4EpEglW-9XRKOzW1QUB2RpBWeHUO)  
+Chaine Youtube : [@RencontresR](https://youtube.com/@RencontresR) | [Playlist 2024](https://youtube.com/playlist?list=PLC0_Y4EpEglUSFrCslWRUsHuHoSXn-qbV&si=8jOnXtgjcV5FHD5u)  
 
 Les Rencontres R 2024 c'est :  
 -> 150 Participants  
