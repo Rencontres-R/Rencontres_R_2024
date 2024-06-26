@@ -12,12 +12,14 @@ L'édition 2024 est co-organisée par l'[IRISA](https://www.irisa.fr/), le [LMBA
 
 Plus d'information : https://rr2024.sciencesconf.org  
 
-Twitter : [@rencontres_R](https://twitter.com/rencontres_R)  
+Twitter : [@rencontres_R](https://twitter.com/rencontres_R) 
+
+LinkedIn : [Rencontres R 🇫🇷](https://www.linkedin.com/groups/14126026/)
 
 Chaine Youtube : [@RencontresR](https://youtube.com/@RencontresR) | [Playlist 2024](https://youtube.com/playlist?list=PLC0_Y4EpEglUSFrCslWRUsHuHoSXn-qbV&si=8jOnXtgjcV5FHD5u)  
 
 Les Rencontres R 2024 c'est :  
--> 150 Participants  
+-> 152 Participantes et participants  
 -> 5 Demi-journées  
 -> 5 Conférencières et conférenciers invité·e·s  
 -> 2 Tutoriels  
@@ -54,9 +56,11 @@ Les Rencontres R 2024 c'est :
 * Les packages autour de JDemetra+ (rjd3) : une boîte à outils complète pour l'analyse des séries temporelles - Tanguy Barthelemy, INSEE [![Acte](css/file.png)](https://rr2024.sciencesconf.org/544034)
 * [Poster autour du package {datamods}](Posters/05_Goumri_Samra_Poster autour du package {datamods}.pdf) - Samra Goumri, dreamRs - Victor Perrier, dreamRs [![Acte](css/file.png)](https://rr2024.sciencesconf.org/543724)
 * [Distance/Divergence entre distributions t multivariées](Posters/06_Santagostini_Bouhlel_mstudentd_DistanceDivergence entre distributions t multivariées.pdf) - Pierre Santagostini, IRHS - Équipe ImHorPhen (Imagerie pour l'Horticulture et le Phénotypage) [![Acte](css/file.png)](https://rr2024.sciencesconf.org/557106)
-* A survey translation tool to easily migrate from Qualtrics to LimeSurvey - Camille Straboni, Département d'Etudes Cognitives - ENS Paris [![Acte](css/file.png)](https://rr2024.sciencesconf.org/546658)
-* RecForest : Forêts aléatoires de survie pour l'analyse des événements récurrents en R - Juliette Murris, Health data- and model- driven Knowledge Acquisition [![Acte](css/file.png)](https://rr2024.sciencesconf.org/541278)
-* [Des tableaux et des graphiques prêts à publication avec les packages R {tabularise} et {chart} de la suite SciViews](https://orbi.umons.ac.be/handle/20.500.12907/49210) - Guyliann Engels, Service d'écologie numérique, Institut Complexys & Infortech, Université de Mons, Cellule de Pédagogie Facultaire des Sciences, Université de Mons [![Acte](css/file.png)](https://rr2024.sciencesconf.org/544062)
+* ![Prix du jury](css/award-solid.png) A survey translation tool to easily migrate from Qualtrics to LimeSurvey - Camille Straboni, Département d'Etudes Cognitives - ENS Paris [![Acte](css/file.png)](https://rr2024.sciencesconf.org/546658)
+* ![Prix du jury](css/award-solid.png) RecForest : Forêts aléatoires de survie pour l'analyse des événements récurrents en R - Juliette Murris, Health data- and model- driven Knowledge Acquisition [![Acte](css/file.png)](https://rr2024.sciencesconf.org/541278)
+* ![Prix du jury](css/award-solid.png) [Des tableaux et des graphiques prêts à publication avec les packages R {tabularise} et {chart} de la suite SciViews](https://orbi.umons.ac.be/handle/20.500.12907/49210) - Guyliann Engels, Service d'écologie numérique, Institut Complexys & Infortech, Université de Mons, Cellule de Pédagogie Facultaire des Sciences, Université de Mons [![Acte](css/file.png)](https://rr2024.sciencesconf.org/544062)
+
+![Prix du jury](css/award-solid.png) : Prix du jury
 
 ### Lightning
 
