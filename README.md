@@ -167,7 +167,7 @@ Les Rencontres R 2024 c'est :
 
 ## Remerciements
 
-Nous remercions les différents comités et nos [sponsors](https://rr2024.sciencesconf.org/resource/page/id/5).
+Nous remercions les participantes et participants, les intervenantes et intervenants, les différents comités et nos [sponsors](https://rr2024.sciencesconf.org/resource/page/id/5).
 
 <img src="Images/Sponsors.png" alt="drawing" width="100%"/>
 
