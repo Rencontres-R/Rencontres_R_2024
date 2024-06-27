@@ -46,7 +46,7 @@ Les Rencontres R 2024 c'est :
 ### [Tutoriels](https://rr2024.sciencesconf.org/resource/page/id/20)
 
 * [Dérivation automatique et optimisation avec la libraire torch](https://rr2024.sciencesconf.org/resource/page/id/20) - Tristan Mary-Huard, Université Paris-Saclay, INRAE, CNRS, AgroParisTech, UMR GQE-Le Moulon, 91190 Gif-sur-Yvette, France & Université Paris-Saclay, AgroParisTech, INRAE, UMR MIA-Paris, 91120 Palaiseau, France [![Acte](css/file.png)](https://rr2024.sciencesconf.org/560087)
-* [Créez des environements reproductibles avec rix](https://is.gd/nix_rr_2024) - Bruno Rodrigues, Ministère de la Recherche et de l’Enseignement supérieur au Luxembourg [![Acte](css/file.png)](https://rr2024.sciencesconf.org/557106)
+* [Créez des environements reproductibles avec rix](https://github.com/b-rodrigues/rr_2024/tree/main/tuto) - Bruno Rodrigues, Ministère de la Recherche et de l’Enseignement supérieur au Luxembourg [![Acte](css/file.png)](https://rr2024.sciencesconf.org/557106)
 
 ### Posters
 
