@@ -95,7 +95,7 @@ Les Rencontres R 2024 c'est :
 
 #### Dataviz - *Julie Lenoir*
 
-* telraamStats : visualisation des mobilités pour la recherche et les citoyen·ne·s - Ketsia Guichard-Sustowski, Institut de Recherche Mathématique de Rennes, Centre de recherche en économie et management [![Acte](css/file.png)](https://rr2024.sciencesconf.org/543678)
+* [telraamStats : visualisation des mobilités pour la recherche et les citoyen·ne·s](Présentations/02_Jeudi/02_Dataviz/01_Guichard-Sustowski_Ketsia_telraamStats  visualisation des mobilités pour la recherche et les citoyen·ne·s.pdf) - Ketsia Guichard-Sustowski, Institut de Recherche Mathématique de Rennes, Centre de recherche en économie et management [![Acte](css/file.png)](https://rr2024.sciencesconf.org/543678)
 * [Collecter et cartographier les données du bilan carbone d'un congrès](https://husson.github.io/img/presRR24.html#/title-slide) - Chloé Friguet, Université Bretagne Sud / IRISA et François Husson, Laboratoire de Mathématiques Appliquées - Agrocampus Rennes [![Acte](css/file.png)](https://rr2024.sciencesconf.org/544008)
 
 #### Gestion de projet R, bonnes pratiques - *Pierre Gloaguen*
@@ -181,7 +181,8 @@ Après avoir [collecté et cartographié les données du congrès](https://husso
 [analyses statistiques avec R](Présentations/02_Jeudi/07_A250_Gestion de projet/01_Philibert_Aurore_Dugas_Julien_Sécurisation des analyses statistiques avec R  retour d'expérience.pdf), nous pouvons vous faire un 
 [retour d'expérience](Présentations/02_Jeudi/07_A250_Gestion de projet/01_Philibert_Aurore_Dugas_Julien_Sécurisation des analyses statistiques avec R  retour d'expérience.pdf). Cette conférence fut comme 
 [un site pour partager sa recherche](https://hal.science/hal-04618386), un endroit pour [maturer des codes scientifiques de traitement de données liées à l'Eau](https://rr2024.sciencesconf.org/544010) ou encore 
-[visualiser des mobilités pour la recherche et les citoyen·ne·s](https://rr2024.sciencesconf.org/543678) même si nous avons des 
+[visualiser des mobilités pour la recherche et les citoyen·ne·s](Présentations/02_Jeudi/02_Dataviz/01_Guichard-Sustowski_Ketsia_telraamStats  visualisation des mobilités pour la recherche et les citoyen·ne·s.pdf) 
+même si nous avons des 
 [données incomplètes](Présentations/02_Jeudi/03_Méthode Statistique/02_Audigier_Vincent_Clustering sur données incomplètes avec clusterMI.pdf). Nous avons vu des 
 [applications Shiny qui facilitent la vie](https://rr2024.sciencesconf.org/543812), des applications Shiny élégantes et performantes [qui se déploient comme sur des roulettes](https://hal.inrae.fr/hal-04611375v1) et tout 
 ceci a eu un [IMPACT](https://yannsay-impact.github.io/RR2024_presentation_cadreRchezIMPACT/#/title-slide) sur nos [Initiatives](https://yannsay-impact.github.io/RR2024_presentation_cadreRchezIMPACT/#/title-slide) afin de 
@@ -207,7 +208,7 @@ Nous avons aussi parlé [de biologie et de santé](https://rr2024.sciencesconf.o
 Si nous faisions [une enquête auprès des](Présentations/01_Mercredi/04_Courte 1/01_Girard_Antoine_Une enquête auprès des métiers de la « data »  quelle place pour R et ses utilisateurs.pdf) participants autour des 
 [posters](Posters/05_Goumri_Samra_Poster autour du package {datamods}.pdf), je suis sûr que beaucoup me diraient, 
 [qu’une marche, c'est bien](Présentations/02_Jeudi/07_A250_Gestion de projet/02_Guyader_Vincent_Refactoring  du code qui marche, c'est bien, mais du code maintenable, c'est mieux.html), surtout dans des 
-[forêts aléatoires de survie](https://rr2024.sciencesconf.org/541278) mais 
+[forêts aléatoires de survie](Posters/08_Murris_Juliette_RecForest  Forêts aléatoires de survie pour l'analyse des événements récurrents en R.pdf) mais 
 [apprendre R et les statistiques... grâce à R](https://github.com/BioDataScience-Course/sdd_presentations/blob/master/2024_rencontresr_vannes/presentation/RRvannes2025_grosjean_presentation.pdf) afin d’avoir 
 [des tableaux et des graphiques prêts à publication](https://orbi.umons.ac.be/handle/20.500.12907/49210) et de faire une [génération aléatoire d'exercices pour Moodle](https://hal.science/hal-04616646) tout en 
 [étendant nos codes](Présentations/01_Mercredi/02_Biostatistique/01_Comets_Emmanuelle_Extending code from the saemix package to fit parametric joint models in R.pdf), c’est mieux.  
