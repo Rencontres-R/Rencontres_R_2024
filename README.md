@@ -41,7 +41,7 @@ Les Rencontres R 2024 c'est :
 * [Comment tirer parti des technologies cloud sans se faire enfermer ? Projet Onyxia](https://rlesur.github.io/rr2024/#/title-slide) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)](https://youtu.be/ZKyaGia5od8) - Romain Lesur, INSEE - *Modérateur : David Gohel*
 * [SK8 : Pour des applications shiny qui se déploient comment sur des roulettes](https://hal.inrae.fr/hal-04611375v1) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)](https://youtu.be/MkirFlGo8gY) - Élise Maigné, MIAT, INRAE, Toulouse [![Acte](css/file.png)](https://rr2024.sciencesconf.org/557097) - *Modérateur : Paul Bastide*
 * [Modélisation conjointe de données longitudinales et de temps d'événements sous R](https://hal.science/hal-04617186) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)](https://youtu.be/5dyuHrnZoNk?si=s42dHszq9NCG2Z6j) - Cécile Proust Lima, Inserm, Univ. Bordeaux [![Acte](css/file.png)](https://rr2024.sciencesconf.org/557302) - *Modératrice : Solène Desmée*
-* [R pour l'océano-météo et l'ingénierie marine](https://github.com/Resourcecode-project/r-resourcecode) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)](https://youtu.be/9uH3_tIrGk0) - Raillard Nicolas, Laboratoire Hydrodynamique Marine, Ifremer, Brest [![Acte](css/file.png)](https://rr2024.sciencesconf.org/558418) - *Modératrice : Audrey Poterie*
+* [R pour l'océano-météo et l'ingénierie marine](Présentations/02_Jeudi/01_Nicolas Raillard/Raillard_Nicolas_R pour l'océano-météo et l'ingénierie marine.pdf) [![Youtube](https://www.youtube.com/s/desktop/cea106d7/img/favicon.ico)](https://youtu.be/9uH3_tIrGk0) - Raillard Nicolas, Laboratoire Hydrodynamique Marine, Ifremer, Brest [![Acte](css/file.png)](https://rr2024.sciencesconf.org/558418) - *Modératrice : Audrey Poterie*
 
 ### [Tutoriels](https://rr2024.sciencesconf.org/resource/page/id/20)
 
@@ -194,7 +194,7 @@ Durant ces trois jours, nous avons fait [des blocs en expérimentation](https://
 [saperlipopette](Présentations/02_Jeudi/07_A101_Enseignement/02_Salmon_maelle_saperlipopette, un paquet R pour progresser en Git en toute sérénité.pdf), on a pu 
 [progresser en toute sérénité](Présentations/02_Jeudi/07_A101_Enseignement/02_Salmon_maelle_saperlipopette, un paquet R pour progresser en Git en toute sérénité.pdf). Petit à petit 
 [les petits cours d'eau](https://rr2024.sciencesconf.org/543486) ont formé des grandes rivières et au travers [de zones climatiques locales](https://hal.science/hal-04613802v1) a abouti sur une vraie 
-[ingénierie marine](https://github.com/Resourcecode-project/r-resourcecode).  
+[ingénierie marine](Présentations/02_Jeudi/01_Nicolas Raillard/Raillard_Nicolas_R pour l'océano-météo et l'ingénierie marine.pdf).  
   
 Nous avons aussi parlé [de biologie et de santé](https://rr2024.sciencesconf.org/539452), en restant
 [fiables](Présentations/01_Mercredi/03_Reproductibilité/01_Féat_Yann_Guaranteeing reliable analyses with R packages perspectives from clinical research.pdf) mais sans être trop 
