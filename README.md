@@ -53,7 +53,7 @@ Les Rencontres R 2024 c'est :
 * hubeau: un package pour interroger les APIs du Système d'Information sur l'eau en France - Pascal Irz, Direction régionale Bretagne [![Acte](css/file.png)](https://rr2024.sciencesconf.org/541324)
 * [SK8 : Un service institutionnel de gestion et d'hébergement d'applications Shiny](https://hal.inrae.fr/hal-04141247) - Jean-François rey, Biostatistique et Processus Spatiaux - Élise Maigné, Unité de Mathématiques et Informatique Appliquées de Toulouse [![Acte](css/file.png)](https://rr2024.sciencesconf.org/538547)
 * [Créer un site pour partager sa recherche avec R, blogdown et Hugo](https://hal.science/hal-04618386) - Fanny Ollivier, Laboratoire de Psychologie des Pays de la Loire [![Acte](css/file.png)](https://rr2024.sciencesconf.org/543714)
-* Les packages autour de JDemetra+ (rjd3) : une boîte à outils complète pour l'analyse des séries temporelles - Tanguy Barthelemy, INSEE [![Acte](css/file.png)](https://rr2024.sciencesconf.org/544034)
+* [Les packages autour de JDemetra+ (rjd3) : une boîte à outils complète pour l'analyse des séries temporelles](https://raw.githubusercontent.com/TanguyBarthelemy/rr2024/main/figures/poster.png) - Tanguy Barthelemy, INSEE [![Acte](css/file.png)](https://rr2024.sciencesconf.org/544034)
 * [Poster autour du package {datamods}](Posters/05_Goumri_Samra_Poster autour du package {datamods}.pdf) - Samra Goumri, dreamRs - Victor Perrier, dreamRs [![Acte](css/file.png)](https://rr2024.sciencesconf.org/543724)
 * [Distance/Divergence entre distributions t multivariées](Posters/06_Santagostini_Bouhlel_mstudentd_DistanceDivergence entre distributions t multivariées.pdf) - Pierre Santagostini, IRHS - Équipe ImHorPhen (Imagerie pour l'Horticulture et le Phénotypage) [![Acte](css/file.png)](https://rr2024.sciencesconf.org/557106)
 * ![Prix du jury](css/award-solid.png) A survey translation tool to easily migrate from Qualtrics to LimeSurvey - Camille Straboni, Département d'Etudes Cognitives - ENS Paris [![Acte](css/file.png)](https://rr2024.sciencesconf.org/546658)
@@ -91,7 +91,7 @@ Les Rencontres R 2024 c'est :
 
 * [Extending code from the saemix package to fit parametric joint models in R](Présentations/01_Mercredi/02_Biostatistique/01_Comets_Emmanuelle_Extending code from the saemix package to fit parametric joint models in R.pdf) - Emmanuelle Comets, Infection, Anti-microbiens, Modélisation, Evolution, Institut de recherche en santé, environnement et travail [![Acte](css/file.png)](https://rr2024.sciencesconf.org/544031)
 * [Mise en oeuvre de méthodes semi-Bayésiennes de calcul des erreurs standards pour les données éparses dans le package saemix](https://hal.science/hal-04617156) - Mélanie Guhl, Université Paris Cité, INSERM, IAME, UMR 1137 [![Acte](css/file.png)](https://rr2024.sciencesconf.org/543907)
-* BeQut, un package R pour l'estimation bayésienne de modèles de régression quantile à effets mixtes via JAGS - Antoine Barbieri, Univ. Bordeaux, Inserm BPH U1219, F-33000, Bordeaux [![Acte](css/file.png)](https://rr2024.sciencesconf.org/544071)
+* [BeQut, un package R pour l'estimation bayésienne de modèles de régression quantile à effets mixtes via JAGS](Présentations/01_Mercredi/02_Biostatistique/003_Barbieri_Antoine_BeQut, un package R pour l'estimation bayésienne de modèles de régression quantile à effets mixtes via JAGS.pdf) - Antoine Barbieri, Univ. Bordeaux, Inserm BPH U1219, F-33000, Bordeaux [![Acte](css/file.png)](https://rr2024.sciencesconf.org/544071)
 
 #### Dataviz - *Julie Lenoir*
 
@@ -186,14 +186,15 @@ Après avoir [collecté et cartographié les données du congrès](https://husso
 [applications Shiny qui facilitent la vie](https://rr2024.sciencesconf.org/543812), des applications Shiny élégantes et performantes [qui se déploient comme sur des roulettes](https://hal.inrae.fr/hal-04611375v1) et tout 
 ceci a eu un [IMPACT](https://yannsay-impact.github.io/RR2024_presentation_cadreRchezIMPACT/#/title-slide) sur nos [Initiatives](https://yannsay-impact.github.io/RR2024_presentation_cadreRchezIMPACT/#/title-slide) afin de 
 mieux Comunicate notamment en HTTP. Nous avons [exploré des données métagénomiques](https://hal.inrae.fr/hal-04611225), des 
-[modélisation conjointe de données longitudinales et de temps d'événements](https://hal.science/hal-04617186) et bien sûr des [modèles de régression quantile à effets mixtes](https://rr2024.sciencesconf.org/544071).  
+[modélisation conjointe de données longitudinales et de temps d'événements](https://hal.science/hal-04617186) et bien sûr des 
+[modèles de régression quantile à effets mixtes](Présentations/01_Mercredi/02_Biostatistique/003_Barbieri_Antoine_BeQut, un package R pour l'estimation bayésienne de modèles de régression quantile à effets mixtes via JAGS.pdf).  
   
 Durant ces trois jours, nous avons fait [des blocs en expérimentation](https://rr2024.sciencesconf.org/543823), des
 [retours d'expérience](Présentations/02_Jeudi/03_Méthode Statistique/03_Bichat_Antoine_Créer son propre package d'extension recipes retour d'expérience de scimo.pdf), ce fut parfois dans des [conditions extrêmes](https://rr2024.sciencesconf.org/548415) et nous avons fait [des erreurs standards](https://hal.science/hal-04617156) notamment 
 [pour les données éparses](https://hal.science/hal-04617156) en touchant le [fond](https://rr2024.sciencesconf.org/547938). Mais [un petit coup de polish](https://rr2024.sciencesconf.org/542773) et 
 [saperlipopette](Présentations/02_Jeudi/07_A101_Enseignement/02_Salmon_maelle_saperlipopette, un paquet R pour progresser en Git en toute sérénité.pdf), on a pu 
 [progresser en toute sérénité](Présentations/02_Jeudi/07_A101_Enseignement/02_Salmon_maelle_saperlipopette, un paquet R pour progresser en Git en toute sérénité.pdf). Petit à petit 
-[les petits cours d'eau](https://rr2024.sciencesconf.org/543486) ont formé des grandes rivières et au travers [de zones climatiques locales](https://hal.science/hal-04613802v1) a abouti sur une vraie 
+[les petits cours d'eau](https://hal.science/hal-04613400) ont formé des grandes rivières et au travers [de zones climatiques locales](https://hal.science/hal-04613802v1) a abouti sur une vraie 
 [ingénierie marine](Présentations/02_Jeudi/01_Nicolas Raillard/Raillard_Nicolas_R pour l'océano-météo et l'ingénierie marine.pdf).  
   
 Nous avons aussi parlé [de biologie et de santé](https://rr2024.sciencesconf.org/539452), en restant
@@ -213,6 +214,6 @@ Si nous faisions [une enquête auprès des](Présentations/01_Mercredi/04_Courte
   
 Il est temps de prendre nos [distances](Posters/06_Santagostini_Bouhlel_mstudentd_DistanceDivergence entre distributions t multivariées.pdf) et de [migrer](https://rr2024.sciencesconf.org/546658) loin de Vannes. Prenez votre 
 [SK8](https://hal.inrae.fr/hal-04141247), votre bouteille d[’eau](https://rr2024.sciencesconf.org/541324) et surtout votre [torch](https://rr2024.sciencesconf.org/560087) afin d’éclairer le monde. Nous vous avons donné 
-[une boîte à outils complète pour l’analyse afin](https://rr2024.sciencesconf.org/544034) de [diffuser l’image](https://rr2024.sciencesconf.org/544084) que [le futur](https://rr2024.sciencesconf.org/537480) c’est 
+[une boîte à outils complète pour l’analyse afin](https://raw.githubusercontent.com/TanguyBarthelemy/rr2024/main/figures/poster.png) de [diffuser l’image](https://rr2024.sciencesconf.org/544084) que [le futur](https://rr2024.sciencesconf.org/537480) c’est 
 [avec R](https://rr2024.sciencesconf.org/537480).
 </div>
