@@ -50,7 +50,7 @@ Les Rencontres R 2024 c'est :
 
 ### Posters
 
-* hubeau: un package pour interroger les APIs du Système d'Information sur l'eau en France - Pascal Irz, Direction régionale Bretagne [![Acte](css/file.png)](https://rr2024.sciencesconf.org/541324)
+* [hubeau: un package pour interroger les APIs du Système d'Information sur l'eau en France](Posters/01_Irz_Pascal_hubeau un package pour interroger les APIs du Système d'Information sur l'eau en France.pdf) - Pascal Irz, Direction régionale Bretagne [![Acte](css/file.png)](https://rr2024.sciencesconf.org/541324)
 * [SK8 : Un service institutionnel de gestion et d'hébergement d'applications Shiny](https://hal.inrae.fr/hal-04141247) - Jean-François rey, Biostatistique et Processus Spatiaux - Élise Maigné, Unité de Mathématiques et Informatique Appliquées de Toulouse [![Acte](css/file.png)](https://rr2024.sciencesconf.org/538547)
 * [Créer un site pour partager sa recherche avec R, blogdown et Hugo](https://hal.science/hal-04618386) - Fanny Ollivier, Laboratoire de Psychologie des Pays de la Loire [![Acte](css/file.png)](https://rr2024.sciencesconf.org/543714)
 * [Les packages autour de JDemetra+ (rjd3) : une boîte à outils complète pour l'analyse des séries temporelles](https://raw.githubusercontent.com/TanguyBarthelemy/rr2024/main/figures/poster.png) - Tanguy Barthelemy, INSEE [![Acte](css/file.png)](https://rr2024.sciencesconf.org/544034)
@@ -214,7 +214,8 @@ Si nous faisions [une enquête auprès des](Présentations/01_Mercredi/04_Courte
 [étendant nos codes](Présentations/01_Mercredi/02_Biostatistique/01_Comets_Emmanuelle_Extending code from the saemix package to fit parametric joint models in R.pdf), c’est mieux.  
   
 Il est temps de prendre nos [distances](Posters/06_Santagostini_Bouhlel_mstudentd_DistanceDivergence entre distributions t multivariées.pdf) et de [migrer](https://rr2024.sciencesconf.org/546658) loin de Vannes. Prenez votre 
-[SK8](https://hal.inrae.fr/hal-04141247), votre bouteille d[’eau](https://rr2024.sciencesconf.org/541324) et surtout votre [torch](https://rr2024.sciencesconf.org/560087) afin d’éclairer le monde. Nous vous avons donné 
+[SK8](https://hal.inrae.fr/hal-04141247), votre bouteille d[’eau](Posters/01_Irz_Pascal_hubeau un package pour interroger les APIs du Système d'Information sur l'eau en France.pdf) et surtout votre 
+[torch](https://rr2024.sciencesconf.org/560087) afin d’éclairer le monde. Nous vous avons donné 
 [une boîte à outils complète pour l’analyse afin](https://raw.githubusercontent.com/TanguyBarthelemy/rr2024/main/figures/poster.png) de [diffuser l’image](https://rr2024.sciencesconf.org/544084) que [le futur](https://rr2024.sciencesconf.org/537480) c’est 
 [avec R](https://rr2024.sciencesconf.org/537480).
 </div>
