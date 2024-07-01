@@ -74,7 +74,7 @@ Les Rencontres R 2024 c'est :
 #### Courte 2 - *François Husson*
 
 * [Explorer et comparer des cartes de zones climatiques locales avec le paquet lczexplore](https://hal.science/hal-04613802v1) - Matthieu Gousseff, Equipe DECIDE [![Acte](css/file.png)](https://rr2024.sciencesconf.org/544051)
-* [Des applications Shiny qui facilitent la vie](Présentations/01_Mercredi/05_Courte 2/02_Dechaux_Terence_Des applications Shiny qui facilitent la vie.pdf) - Terence Dechaux, Institut de l'élevage [![Acte](css/file.png)](https://rr2024.sciencesconf.org/543812)
+* [Des applications Shiny qui facilitent la vie](Présentations/02_Jeudi/05_Courte 2/02_Dechaux_Terence_Des applications Shiny qui facilitent la vie.pdf) - Terence Dechaux, Institut de l'élevage [![Acte](css/file.png)](https://rr2024.sciencesconf.org/543812)
 * Application Shiny XPBlocs - Création de blocs en expérimentation - Maxime Legris, Institut de l'Elevage [![Acte](css/file.png)](https://rr2024.sciencesconf.org/543823)
 * Utilisation du package {flexdashboard} pour le contrôle des données de biologie dans un entrepôt de données de santé - Morgane Pierre-Jean, Univ Rennes, CHU Rennes, INSERM, LTSI-UM R 1099 [![Acte](css/file.png)](https://rr2024.sciencesconf.org/539452)
 * [easy16S : une application Shiny pour explorer ses données métagénomiques](https://hal.inrae.fr/hal-04611225) - Cédric Midoux, Université Paris-Saclay, INRAE, PROSE, 92160, Antony, France, Université Paris-Saclay, INRAE, MaIAGE, 78350, Jouy-en-Josas, France, Université Paris-Saclay, INRAE, BioinfOmics, MIGALE bioinformatics facility, 78350, Jouy-en-Josas, France [![Acte](css/file.png)](https://rr2024.sciencesconf.org/548790)
@@ -184,7 +184,7 @@ Après avoir [collecté et cartographié les données du congrès](https://husso
 [visualiser des mobilités pour la recherche et les citoyen·ne·s](Présentations/02_Jeudi/02_Dataviz/01_Guichard-Sustowski_Ketsia_telraamStats  visualisation des mobilités pour la recherche et les citoyen·ne·s.pdf) 
 même si nous avons des 
 [données incomplètes](Présentations/02_Jeudi/03_Méthode Statistique/02_Audigier_Vincent_Clustering sur données incomplètes avec clusterMI.pdf). Nous avons vu des 
-[applications Shiny qui facilitent la vie](Présentations/01_Mercredi/05_Courte 2/02_Dechaux_Terence_Des applications Shiny qui facilitent la vie.pdf), des applications Shiny élégantes et performantes 
+[applications Shiny qui facilitent la vie](Présentations/02_Jeudi/05_Courte 2/02_Dechaux_Terence_Des applications Shiny qui facilitent la vie.pdf), des applications Shiny élégantes et performantes 
 [qui se déploient comme sur des roulettes](https://hal.inrae.fr/hal-04611375v1) et tout 
 ceci a eu un [IMPACT](https://yannsay-impact.github.io/RR2024_presentation_cadreRchezIMPACT/#/title-slide) sur nos [Initiatives](https://yannsay-impact.github.io/RR2024_presentation_cadreRchezIMPACT/#/title-slide) afin de 
 mieux Comunicate notamment en HTTP. Nous avons [exploré des données métagénomiques](https://hal.inrae.fr/hal-04611225), des 
