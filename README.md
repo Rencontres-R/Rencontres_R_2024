@@ -125,7 +125,7 @@ Les Rencontres R 2024 c'est :
 #### Statistique pour l'environnement - *Baptiste Alglave*
 
 * Human in the deep: Converting research activities pressures into ecological impact assessment. - Riwan Leroux, Institut Français de Recherche pour l'Exploitation de la Mer [![Acte](css/file.png)](https://rr2024.sciencesconf.org/547938)
-* Maturation de codes scientifiques R de traitement de données liées à l'Eau au BRGM (initiative MATUREAU) - Marc Laurencelle, Bureau de Recherches Géologiques et Minières (BRGM) [![Acte](css/file.png)](https://rr2024.sciencesconf.org/544010)
+* [Maturation de codes scientifiques R de traitement de données liées à l'Eau au BRGM (initiative MATUREAU)](Présentations/02_Jeudi/06_A250_Statistique pour l'environnement/02_Laurencelle_Marc_Maturation de codes scientifiques R de traitement de données liées à l'Eau au BRGM (initiative MATUREAU).pdf) - Marc Laurencelle, Bureau de Recherches Géologiques et Minières (BRGM) [![Acte](css/file.png)](https://rr2024.sciencesconf.org/544010)
 * [Un suivi régionalisé et actualisé des étiages des petits cours d'eau, c'est possible avec R, Hub'Eau et GitHub !](https://hal.science/hal-04613400) - Pascal Irz, Direction régionale Bretagne [![Acte](css/file.png)](https://rr2024.sciencesconf.org/543486)
 
 ## Les comités
@@ -180,7 +180,8 @@ Après avoir [collecté et cartographié les données du congrès](https://husso
 [sécurisé](Présentations/02_Jeudi/07_A250_Gestion de projet/01_Philibert_Aurore_Dugas_Julien_Sécurisation des analyses statistiques avec R  retour d'expérience.pdf) nos 
 [analyses statistiques avec R](Présentations/02_Jeudi/07_A250_Gestion de projet/01_Philibert_Aurore_Dugas_Julien_Sécurisation des analyses statistiques avec R  retour d'expérience.pdf), nous pouvons vous faire un 
 [retour d'expérience](Présentations/02_Jeudi/07_A250_Gestion de projet/01_Philibert_Aurore_Dugas_Julien_Sécurisation des analyses statistiques avec R  retour d'expérience.pdf). Cette conférence fut comme 
-[un site pour partager sa recherche](https://hal.science/hal-04618386), un endroit pour [maturer des codes scientifiques de traitement de données liées à l'Eau](https://rr2024.sciencesconf.org/544010) ou encore 
+[un site pour partager sa recherche](https://hal.science/hal-04618386), un endroit pour 
+[maturer des codes scientifiques de traitement de données liées à l'Eau](Présentations/02_Jeudi/06_A250_Statistique pour l'environnement/02_Laurencelle_Marc_Maturation de codes scientifiques R de traitement de données liées à l'Eau au BRGM (initiative MATUREAU).pdf) ou encore 
 [visualiser des mobilités pour la recherche et les citoyen·ne·s](Présentations/02_Jeudi/02_Dataviz/01_Guichard-Sustowski_Ketsia_telraamStats  visualisation des mobilités pour la recherche et les citoyen·ne·s.pdf) 
 même si nous avons des 
 [données incomplètes](Présentations/02_Jeudi/03_Méthode Statistique/02_Audigier_Vincent_Clustering sur données incomplètes avec clusterMI.pdf). Nous avons vu des 
