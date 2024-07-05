@@ -102,7 +102,7 @@ Les Rencontres R 2024 c'est :
 
 * [Sécurisation des analyses statistiques avec R : retour d'expérience](Présentations/02_Jeudi/07_A250_Gestion de projet/01_Philibert_Aurore_Dugas_Julien_Sécurisation des analyses statistiques avec R  retour d'expérience.pdf) - Aurore Philibert, Pôle Biostatistique - Julien Dugas, Pôle Biostatistique [![Acte](css/file.png)](https://rr2024.sciencesconf.org/543675)
 * [Refactoring : du code qui marche, c'est bien, mais du code maintenable, c'est mieux](Présentations/02_Jeudi/07_A250_Gestion de projet/02_Guyader_Vincent_Refactoring  du code qui marche, c'est bien, mais du code maintenable, c'est mieux.html) - Vincent Guyader, ThinkR [![Acte](css/file.png)](https://rr2024.sciencesconf.org/543491)
-* Une vie polyamoureuse entre R et Julia - Remy Drouilhet, Laboratoire Jean Kuntzmann [![Acte](css/file.png)](https://rr2024.sciencesconf.org/543985)
+* [Une vie polyamoureuse entre R et Julia](https://cqls.dyndoc.fr/jl4R/talk) - Remy Drouilhet, Laboratoire Jean Kuntzmann [![Acte](css/file.png)](https://rr2024.sciencesconf.org/543985)
 
 #### Méthode statistique - *Vincent Brault*
 
@@ -206,7 +206,7 @@ Nous avons aussi parlé [de biologie et de santé](https://rr2024.sciencesconf.o
 [clinique](Présentations/01_Mercredi/03_Reproductibilité/01_Féat_Yann_Guaranteeing reliable analyses with R packages perspectives from clinical research.pdf) 
 [tout en souplesse](Présentations/01_Mercredi/04_Courte 1/02_Floc'hlay_Swann_Pour un namespace tout en souplesse.html) puisque nous avons [créé des environnements reproductibles avec rix](https://is.gd/nix_rr_2024) 
 ([deux fois](https://is.gd/nix_rr_2024)). Nous avons formé une [communauté autour de R](Présentations/01_Mercredi/04_Courte 1/05_Vaugoyeau_Marie_Comment les communautés autour de R peuvent changer vos pRojets.pdf), des 
-[clusters de copules](https://rr2024.sciencesconf.org/543892) voir parfois été dans [une vie polyamoureuse avec Julia](https://rr2024.sciencesconf.org/543985).  
+[clusters de copules](https://rr2024.sciencesconf.org/543892) voir parfois été dans [une vie polyamoureuse avec Julia](https://cqls.dyndoc.fr/jl4R/talk).  
   
 Si nous faisions [une enquête auprès des](Présentations/01_Mercredi/04_Courte 1/01_Girard_Antoine_Une enquête auprès des métiers de la « data »  quelle place pour R et ses utilisateurs.pdf) participants autour des 
 [posters](Posters/05_Goumri_Samra_Poster autour du package {datamods}.pdf), je suis sûr que beaucoup me diraient, 
